@@ -32,7 +32,6 @@ jobs:
         git config --global user.email '<>'
         MSG="$(date '+%m.%d @ %H:%M')"
         echo "$MSG"
-        echo "$MSG" >> log
         git add README.md
         git commit -m "$MSG"
         git push
