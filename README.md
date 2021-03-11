@@ -1,1 +1,1 @@
-# Awesome-Stared
+# Awesome-Starred
