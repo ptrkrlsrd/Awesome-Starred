@@ -24,7 +24,7 @@ jobs:
     - name: Run
       run: go run main.go
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
     
     - name: Commit
       run: |
