@@ -72,7 +72,7 @@ func main() {
 		}
 		url := *v.Repository.URL
 
-		content := fmt.Sprintf("## [%s](%s) - %s\n", name, url, desc)
+		content := fmt.Sprintf("* [%s](%s) - %s\n", name, url, desc)
 		_, err = w.WriteString(content)
 		if err != nil {
 			panic(err)
