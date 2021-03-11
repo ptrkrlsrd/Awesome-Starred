@@ -70,7 +70,7 @@ func main() {
 		if *&v.Repository.Description != nil {
 			desc = *v.Repository.Description
 		}
-		url := *v.Repository.URL
+		url := *v.Repository.HTMLURL
 
 		content := fmt.Sprintf("* [%s](%s) - %s\n", name, url, desc)
 		_, err = w.WriteString(content)
