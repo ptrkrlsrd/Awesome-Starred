@@ -1,4 +1,5 @@
 # Awesome - Starred repositories
+* [storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
 * [lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
 * [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 * [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
