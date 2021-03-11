@@ -37,7 +37,7 @@ func main() {
 
 		opts.ListOptions = listOptions
 
-		starList, _, err := client.Activity.ListStarred(context.Background(), "ptrkrlsrd", opts)
+		starList, _, err := client.Activity.ListStarred(context.Background(), "", opts)
 		if err != nil {
 			panic(err)
 		}
