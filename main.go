@@ -18,7 +18,6 @@ func main() {
 		&oauth2.Token{AccessToken: token},
 	)
 	tc := oauth2.NewClient(ctx, ts)
-
 	client := github.NewClient(tc)
 
 	var starred []*github.StarredRepository
@@ -37,7 +36,7 @@ func main() {
 
 		opts.ListOptions = listOptions
 
-		starList, _, err := client.Activity.ListStarred(context.Background(), "", opts)
+		starList, _, err := client.Activity.ListStarred(ctx, "", opts)
 		if err != nil {
 			panic(err)
 		}
