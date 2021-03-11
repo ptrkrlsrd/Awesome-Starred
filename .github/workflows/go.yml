@@ -23,3 +23,16 @@ jobs:
 
     - name: Run
       run: go run main.go
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Commit
+      run: |
+        git config --global user.name 'Github'
+        git config --global user.email '<>'
+        MSG="$(date '+%m.%d @ %H:%M')"
+        echo "$MSG"
+        echo "$MSG" >> log
+        git add README.md
+        git commit -m "$MSG"
+        git push
