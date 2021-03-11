@@ -28,6 +28,8 @@ jobs:
     
     - name: Commit
       run: |
+        git config --global user.name 'Github'
+        git config --global user.email '<>'
         MSG="$(date '+%m.%d @ %H:%M')"
         echo "$MSG"
         echo "$MSG" >> log
