@@ -1,4 +1,12 @@
 # Awesome - Starred repositories
+* [zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
+* [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
+* [git-plan](https://github.com/synek/git-plan) - Git Plan - a better workflow for git
+* [gjson.rs](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust
+* [kspan](https://github.com/weaveworks-experiments/kspan) - Turning Kubernetes Events into spans
+* [protop](https://github.com/protop-io/protop) - protobufs, packaged. https://protop.io
+* [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+* [rkyv](https://github.com/djkoloski/rkyv) - Zero-copy deserialization framework for Rust
 * [storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
 * [lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
 * [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -14,7 +22,7 @@
 * [agenda](https://github.com/rougier/agenda) - Org agenda in the console
 * [evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 * [DaisySP](https://github.com/electro-smith/DaisySP) - A Powerful, Open Source DSP Library in C++
-* [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
+* [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 * [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 * [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 * [nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
@@ -57,7 +65,7 @@
 * [scnvim](https://github.com/davidgranstrom/scnvim) - Neovim frontend for SuperCollider.
 * [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 * [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
-* [pangolin-desktop](https://github.com/dahliaOS/pangolin-desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
+* [pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 * [agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud. 
 * [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
 * [leader](https://github.com/dhamidi/leader) - VIM's leader key for your terminal
@@ -155,7 +163,7 @@
 * [grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
 * [onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
 * [telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
-* [TheDigitalFrontier](https://github.com/johannes-kk/TheDigitalFrontier) - Spotify Recommendation Algorithm
+* [Spotify-Playlist-Generation](https://github.com/TheDigitalFrontier/Spotify-Playlist-Generation) - Spotify Recommendation Algorithm
 * [spectator-go](https://github.com/Netflix/spectator-go) - 
 * [systemE](https://github.com/grandfoobah/systemE) - 🤣 A lightweight systemd replacement written in Emacs lisp 🤣
 * [beanbar](https://github.com/mortie/beanbar) - Status bar using web technologies.
@@ -258,7 +266,7 @@
 * [nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
 * [async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
 * [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
-* [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - An experimental Rust compiler front-end for IDEs
+* [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 * [flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 * [bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
 * [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
@@ -500,7 +508,7 @@
 * [lightcrawler](https://github.com/github/lightcrawler) - Crawl a website and run it through Google lighthouse
 * [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 * [crown](https://github.com/dbartolini/crown) - The flexible game engine.
-* [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
+* [hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 * [golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
 * [airbnb-data-collection](https://github.com/tomslee/airbnb-data-collection) - Data collection for Airbnb listings.
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -731,7 +739,7 @@
 * [MATextFieldCell](https://github.com/mamaral/MATextFieldCell) - MATextFieldCell is a drop-in subclass of UITableViewCell, written in Swift, used for drastically streamlining UITableView-based form creation.
 * [Organic](https://github.com/mamaral/Organic) - The intuitive UITableViewController.
 * [popping](https://github.com/schneiderandre/popping) - A collection of animation examples for iOS apps.
-* [eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app.
+* [eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
 * [AMPopTip](https://github.com/andreamazz/AMPopTip) - An animated popover that pops out a given frame, great for subtle UI tips and onboarding.
 * [Doppelganger](https://github.com/Wondermall/Doppelganger) - Array diffs as collection view wants it
