@@ -1,4 +1,17 @@
 # Awesome - Starred repositories
+* [nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
+* [otel-demo](https://github.com/michaelperel/otel-demo) - 
+* [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library 
+* [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+* [Project_CodeNet](https://github.com/IBM/Project_CodeNet) - This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX
+* [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
+* [mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender (mirror only, please post your issues and merge requests at https://gitlab.com/ubisoft-animation-studio/mixer)
+* [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
+* [gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
+* [bin](https://github.com/marcosnils/bin) - Effortless binary manager
+* [profile](https://github.com/pkg/profile) - Simple profiling for Go
+* [goide](https://github.com/kaihendry/goide) - Docker run to a sane vim-go setup
+* [space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 * [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - lsp signature hint when you type
 * [vulndb](https://github.com/golang/vulndb) - The Go Vulnerability Database
 * [navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰
@@ -29,7 +42,7 @@
 * [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
 * [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 * [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-* [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 * [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
 * [agenda](https://github.com/rougier/agenda) - Org agenda in the console
 * [evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
@@ -43,7 +56,7 @@
 * [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting.
 * [quickpick.vim](https://github.com/prabirshrestha/quickpick.vim) - experimental quick picker for vim
 * [dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
-* [librephotos](https://github.com/LibrePhotos/librephotos) - Self hosted alternative to Google Photos 
+* [librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 * [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing 
 * [edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 * [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
@@ -104,7 +117,7 @@
 * [awesome-dotnet-security](https://github.com/guardrailsio/awesome-dotnet-security) - Awesome .NET Security Resources
 * [transcoder](https://github.com/floostack/transcoder) - Transcoding library implementation in Golang
 * [goffmpeg](https://github.com/xfrr/goffmpeg) - FFMPEG wrapper written in GO
-* [vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
+* [vimac](https://github.com/dexterleng/vimac) - Productive macOS keyboard-driven navigation
 * [zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 * [ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems. 
 * [vim-supercollider-snippets](https://github.com/madskjeldgaard/vim-supercollider-snippets) - Vim plugin adding snippet files for SuperCollider filetypes
@@ -289,7 +302,7 @@
 * [faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS
 * [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 * [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
-* [micro](https://github.com/micro/micro) - Distributed OS built for the Cloud
+* [micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
 * [consul-on-kubernetes](https://github.com/kelseyhightower/consul-on-kubernetes) - Running HashiCorp's Consul on Kubernetes
 * [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 * [functional.pipe](https://github.com/andrewchaa/functional.pipe) - C# implementation of F# pipe
@@ -325,7 +338,7 @@
 * [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 * [pipe](https://github.com/pipelined/pipe) - DSP pipeline
 * [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
-* [photoprism](https://github.com/photoprism/photoprism) - Personal Photo Management powered by Go and Google TensorFlow
+* [photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
 * [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow 
 * [http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 * [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -582,7 +595,7 @@
 * [sqawk](https://github.com/dbohdan/sqawk) - Like Awk but with SQL and table joins
 * [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack
 * [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-* [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity
+* [sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
 * [bar](https://github.com/krypt-n/bar) - Fork of bar ain't recursive - A lightweight xcb based bar. This is a hot mess, do not use
 * [fusuma](https://github.com/iberianpig/fusuma) - Multitouch gestures with libinput driver on Linux
 * [Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
@@ -700,7 +713,7 @@
 * [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 * [blade](https://github.com/jondot/blade) - Better asset workflow for iOS developers. Generate Xcode image catalogs for iOS / OSX app icons, universal images, and more.
 * [Chameleon](https://github.com/vicc/Chameleon) - Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).
-* [Nuke](https://github.com/kean/Nuke) - Powerful image loading and caching system
+* [Nuke](https://github.com/kean/Nuke) - Image loading system
 * [STPopup](https://github.com/kevin0571/STPopup) - STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch
