@@ -4,7 +4,9 @@ import (
 	"bufio"
 	"context"
 	"fmt"
+	"log"
 	"os"
+	"sync"
 
 	"golang.org/x/oauth2"
 
@@ -26,31 +28,58 @@ func main() {
 		Direction: "desc",
 	}
 
-	total := 0
+	var starChan = make(chan []*github.StarredRepository)
 
-	for i := 1; i < 1000; i++ {
-		listOptions := github.ListOptions{
-			Page:    i,
-			PerPage: 100,
+	go func() {
+		for {
+			stars := <-starChan
+			starred = append(starred, stars...)
+			log.Printf("stars: %d", len(starred))
 		}
+	}()
 
-		opts.ListOptions = listOptions
-
-		starList, _, err := client.Activity.ListStarred(ctx, "", opts)
-		if err != nil {
-			panic(err)
-		}
-
-		total += len(starList)
-
-		if len(starList) == 0 {
-			break
-		}
-
-		fmt.Println(total)
-
-		starred = append(starred, starList...)
+	listOptions := github.ListOptions{
+		Page:    0,
+		PerPage: 100,
 	}
+
+	opts.ListOptions = listOptions
+
+	starList, resp, err := client.Activity.ListStarred(ctx, "", opts)
+	if err != nil {
+		return
+	}
+	maxPages := resp.LastPage
+	log.Println(resp.LastPage)
+	starChan <- starList
+
+	wg := sync.WaitGroup{}
+
+	for i := resp.NextPage; i <= maxPages; i++ {
+		wg.Add(1)
+		go func(page int) {
+			defer wg.Done()
+			listOptions := github.ListOptions{
+				Page:    page,
+				PerPage: 100,
+			}
+
+			opts.ListOptions = listOptions
+			starList, resp, err = client.Activity.ListStarred(ctx, "", opts)
+			if err != nil {
+				return
+			}
+
+			if len(starList) == 0 {
+				return
+			}
+
+			starChan <- starList
+		}(i)
+	}
+	wg.Wait()
+
+	log.Println(len(starred))
 
 	f, err := os.Create("./README.md")
 	if err != nil {
@@ -66,7 +95,7 @@ func main() {
 	for _, v := range starred {
 		name := *v.Repository.Name
 		desc := ""
-		if *&v.Repository.Description != nil {
+		if v.Repository.Description != nil {
 			desc = *v.Repository.Description
 		}
 		url := *v.Repository.HTMLURL
