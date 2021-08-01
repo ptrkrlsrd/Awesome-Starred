@@ -1,4 +1,16 @@
 # Awesome - Starred repositories
+* [loopers](https://github.com/mwylde/loopers) - Loopers is graphical live looper, written in Rust, designed for ease of use and rock-solid stability
+* [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
+* [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
+* [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours. 
+* [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+* [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+* [twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
+* [neorg](https://github.com/vhyrro/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+* [earthly](https://github.com/earthly/earthly) - Build automation for the container era
+* [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
+* [tag](https://github.com/PierreKieffer/tag) - Git utility to create tags in order to identify specific releases
+* [rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 * [grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 * [bflat](https://github.com/MichalStrehovsky/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 * [git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
@@ -26,7 +38,7 @@
 * [vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
 * [navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰
 * [docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
-* [neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
+* [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 * [linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 * [looper-max](https://github.com/loopier/looper-max) - A tapedelay-like looper built in Max/MSP
 * [synthdefs](https://github.com/loopier/synthdefs) - A collections of Supercollider synths
@@ -41,7 +53,7 @@
 * [kspan](https://github.com/weaveworks-experiments/kspan) - Turning Kubernetes Events into spans
 * [protop](https://github.com/protop-io/protop) - protobufs, packaged. https://protop.io
 * [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-* [rkyv](https://github.com/djkoloski/rkyv) - Zero-copy deserialization framework for Rust
+* [rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
 * [storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
 * [lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
 * [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -111,11 +123,11 @@
 * [grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 * [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 * [AnalogTapeModel](https://github.com/jatinchowdhury18/AnalogTapeModel) - Physical modelling signal processing for analog tape recording
-* [woke](https://github.com/get-woke/woke) - ✊ Detect non-inclusive language in your source code.
+* [woke](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
 * [conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-* [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for Angular 10 and .NET 5
+* [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for Angular 12 and .NET 5
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 * [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 * [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
@@ -177,7 +189,7 @@
 * [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 * [community-studio](https://github.com/sanity-io/community-studio) - Sanity Community Management Studio
 * [monorepoize](https://github.com/gigamonkey/monorepoize) - Bash scripts for creating a monorepo out of smaller repos.
-* [voyager](https://github.com/voyagermesh/voyager) - 🚀 Secure HAProxy Ingress Controller for Kubernetes
+* [voyager](https://github.com/voyagermesh/voyager) - 🚀 Secure L7/L4 (HAProxy) Ingress Controller for Kubernetes
 * [go-dist](https://github.com/paketo-buildpacks/go-dist) - A Cloud Native Buildpack for Go
 * [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 * [promrus](https://github.com/weaveworks/promrus) - Logrus hook to expose Prometheus metrics.
@@ -282,7 +294,7 @@
 * [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 * [argo-events](https://github.com/argoproj/argo-events) - Event-driven workflow automation framework
 * [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-* [xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
+* [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 * [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 * [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne) - AudioKit Synth One: Open-Source iOS Synthesizer App
 * [modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
@@ -309,10 +321,10 @@
 * [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 * [vuex-pathify](https://github.com/davestewart/vuex-pathify) - Vue / Vuex plugin providing a unified path syntax to Vuex stores
 * [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
-* [faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS
+* [faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
 * [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 * [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
-* [micro](https://github.com/micro/micro) - Micro is a distributed OS built for the Cloud
+* [micro](https://github.com/micro/micro) - Micro is a cloud platform for API development
 * [consul-on-kubernetes](https://github.com/kelseyhightower/consul-on-kubernetes) - Running HashiCorp's Consul on Kubernetes
 * [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 * [functional.pipe](https://github.com/andrewchaa/functional.pipe) - C# implementation of F# pipe
@@ -381,7 +393,7 @@
 * [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 * [go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
 * [vim-coiled-snake](https://github.com/kalekundert/vim-coiled-snake) - Compact, but ready to strike. 🐍
-* [percy](https://github.com/chinedufn/percy) - Libraries for building interactive frontend browser apps with Rust + WebAssembly. Supports server side rendering.
+* [percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
 * [gotests-vim](https://github.com/buoto/gotests-vim) - Vim plugin for https://github.com/cweill/gotests
 * [gounit](https://github.com/hexdigest/gounit) - Unit tests generator for Go programming language
 * [gounit-vim](https://github.com/hexdigest/gounit-vim) - Vim plugin for https://github.com/hexdigest/gounit
@@ -491,7 +503,7 @@
 * [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 * [grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 * [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
-* [oil](https://github.com/oilshell/oil) - A new Unix shell.  Our upgrade path from bash to a better language and runtime.
+* [oil](https://github.com/oilshell/oil) - Oil is a new Unix shell.  It's our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 * [turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 * [plaitpy](https://github.com/plaitpy/plaitpy) - plait.py - a fake data modeler 
 * [fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
