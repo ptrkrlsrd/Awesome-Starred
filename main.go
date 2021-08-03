@@ -67,11 +67,21 @@ func main() {
 		log.Panic(err)
 	}
 
-	fileWriter, err := writeStringToFile(file, "# Awesome - Starred repositories")
+	w := bufio.NewWriter(file)
+	err = writeStringToBuffer(w, "# Awesome - Starred repositories")
 	if err != nil {
 		log.Panic(err)
 	}
 
+	err = writeStarsToFile(starred, w)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	w.Flush()
+}
+
+func writeStarsToFile(starred []*github.StarredRepository, fileWriter *bufio.Writer) error {
 	for _, v := range starred {
 		name := *v.Repository.Name
 		desc := ""
@@ -81,13 +91,13 @@ func main() {
 		url := *v.Repository.HTMLURL
 
 		content := fmt.Sprintf("\n* [%s](%s) - %s", name, url, desc)
-		_, err = fileWriter.WriteString(content)
+		_, err := fileWriter.WriteString(content)
 		if err != nil {
-			panic(err)
+			return err
 		}
 	}
 
-	fileWriter.Flush()
+	return nil
 }
 
 func createFile(fileName string) (*os.File, error) {
@@ -99,14 +109,13 @@ func createFile(fileName string) (*os.File, error) {
 	return f, err
 }
 
-func writeStringToFile(f *os.File, content string) (*bufio.Writer, error) {
-	w := bufio.NewWriter(f)
+func writeStringToBuffer(w *bufio.Writer, content string) error {
 	_, err := w.WriteString(content)
 	if err != nil {
-		return nil, err
+		return err
 	}
 
-	return w, nil
+	return nil
 }
 
 func getStarsForPage(page int, client *github.Client, ctx context.Context) ([]*github.StarredRepository, *github.Response, error) {
