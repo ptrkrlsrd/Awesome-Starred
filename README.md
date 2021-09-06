@@ -1,4 +1,6 @@
 # Awesome - Starred repositories
+* [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+* [wacom-settings](https://github.com/avargas05/wacom-settings) - GUI for calibrating the wacom tablet to a screen or window
 * [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 * [impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
 * [pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥  Continuous Profiling Platform 🔥  Debug performance issues down to a single line of code
@@ -6,7 +8,7 @@
 * [sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 * [symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 * [analogcurve](https://github.com/jamshark70/analogcurve) - A SuperCollider UGen (draft) to add analog-ish distortion to a signal (credit to VCV Rack)
-* [viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
+* [viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 * [psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 * [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in pure Rust
 * [redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
@@ -150,7 +152,7 @@
 * [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 * [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 * [arch-i3-usb](https://github.com/jamesmcm/arch-i3-usb) - Preset files to create a fully functional, persistent live USB installation of Arch Linux with i3 via ALMA
-* [pixie](https://github.com/pixie-labs/pixie) - Instant Kubernetes-Native Application Observability
+* [pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 * [bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
 * [datatable](https://github.com/datasweet/datatable) - A go in-memory table
 * [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
@@ -342,7 +344,7 @@
 * [faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
 * [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 * [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
-* [micro](https://github.com/micro/micro) - Micro is a platform for API development
+* [micro](https://github.com/micro/micro) - Micro is a cloud operating system
 * [consul-on-kubernetes](https://github.com/kelseyhightower/consul-on-kubernetes) - Running HashiCorp's Consul on Kubernetes
 * [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 * [functional.pipe](https://github.com/andrewchaa/functional.pipe) - C# implementation of F# pipe
