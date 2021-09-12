@@ -1,4 +1,5 @@
 # Awesome - Starred repositories
+* [arcade](https://github.com/dotnet/arcade) - Tools that provide common build infrastructure for multiple .NET Foundation projects.
 * [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 * [wacom-settings](https://github.com/avargas05/wacom-settings) - GUI for calibrating the wacom tablet to a screen or window
 * [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
