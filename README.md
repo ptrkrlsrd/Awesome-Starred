@@ -540,7 +540,7 @@
 * [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 * [inter](https://github.com/rsms/inter) - The Inter font family
 * [doc-template](https://github.com/opencontrol/doc-template) - Simple Google Go (golang) library for replace text in microsoft word (.docx) file
-* [night-and-day](https://github.com/androidhaystack/night-and-day) - vim theme scheduler
+* [night-and-day](https://github.com/haystackandroid/night-and-day) - vim theme scheduler
 * [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 * [mtl](https://github.com/haskell/mtl) - The Monad Transformer Library
 * [neural](https://github.com/brunjlar/neural) - Neural Nets in native Haskell
