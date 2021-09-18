@@ -1,4 +1,5 @@
 # Awesome - Starred repositories
+* [dieter-rams-10-applied-to-software](https://github.com/zedr/dieter-rams-10-applied-to-software) - 
 * [FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 * [arcade](https://github.com/dotnet/arcade) - Tools that provide common build infrastructure for multiple .NET Foundation projects.
 * [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -222,7 +223,7 @@
 * [lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm
 * [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 * [squash](https://github.com/solo-io/squash) - The debugger for microservices
-* [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+* [iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 * [go-gin-opentracing](https://github.com/Bose/go-gin-opentracing) - Gin Web Framework Open Tracing middleware
 * [O_C](https://github.com/mxmxmx/O_C) - ornament+crime
 * [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -345,7 +346,7 @@
 * [faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
 * [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 * [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
-* [micro](https://github.com/micro/micro) - Micro is a cloud operating system
+* [micro](https://github.com/micro/micro) - Micro is an operating system for the cloud
 * [consul-on-kubernetes](https://github.com/kelseyhightower/consul-on-kubernetes) - Running HashiCorp's Consul on Kubernetes
 * [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 * [functional.pipe](https://github.com/andrewchaa/functional.pipe) - C# implementation of F# pipe
@@ -381,7 +382,7 @@
 * [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 * [pipe](https://github.com/pipelined/pipe) - DSP pipeline
 * [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
-* [photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
+* [photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow 🌈
 * [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow 
 * [http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 * [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -772,7 +773,7 @@
 * [NYAlertViewController](https://github.com/nealyoung/NYAlertViewController) - Highly configurable iOS Alert Views with custom content views
 * [PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 * [faceswap](https://github.com/matthewearl/faceswap) - Python script to put facial features from one face onto another
-* [wdt](https://github.com/facebook/wdt) - Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
+* [wdt](https://github.com/facebookarchive/wdt) - Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - The elegant yet functional dropdown menu, written in Swift, appears underneath the navigation bar to display a list of defined items when a user clicks on the navigation title.
 * [project-name-generator](https://github.com/aceakash/project-name-generator) - Generate a random, unique, heroku-like name for your app/project/server etc. e.g. "resonant-silence"
 * [Replace-iOS](https://github.com/MartinRGB/Replace-iOS) - Simply Implement Zee Young's animation
