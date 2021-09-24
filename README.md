@@ -1,4 +1,6 @@
 # Awesome - Starred repositories
+* [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
+* [zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 * [dieter-rams-10-applied-to-software](https://github.com/zedr/dieter-rams-10-applied-to-software) - 
 * [FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 * [arcade](https://github.com/dotnet/arcade) - Tools that provide common build infrastructure for multiple .NET Foundation projects.
@@ -6,7 +8,7 @@
 * [wacom-settings](https://github.com/avargas05/wacom-settings) - GUI for calibrating the wacom tablet to a screen or window
 * [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 * [impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
-* [pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥  Continuous Profiling Platform 🔥  Debug performance issues down to a single line of code
+* [pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform!  Debug performance issues down to a single line of code
 * [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 * [sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 * [symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
@@ -41,7 +43,7 @@
 * [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
 * [novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
 * [gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
-* [ToolJet](https://github.com/ToolJet/ToolJet) - An open-source no-code platform for building and deploying internal tools 🚀
+* [ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is an open-source low-code platform for building and deploying internal tools with minimal engineering efforts 🚀
 * [goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
 * [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 * [nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
@@ -57,7 +59,7 @@
 * [profile](https://github.com/pkg/profile) - Simple profiling for Go
 * [goide](https://github.com/kaihendry/goide) - Docker run to a sane vim-go setup
 * [space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
-* [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - lsp signature hint when you type
+* [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 * [vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
 * [navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰
 * [docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
@@ -101,7 +103,7 @@
 * [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting.
 * [quickpick.vim](https://github.com/prabirshrestha/quickpick.vim) - experimental quick picker for vim
 * [dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
-* [librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
+* [librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 * [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing 
 * [edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
 * [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
@@ -657,7 +659,7 @@
 * [kyt](https://github.com/nytimes/kyt) - Starting a new JS app? Build, test and run advanced apps with kyt 🔥
 * [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
 * [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
-* [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift web framework.
+* [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 * [dotfiles](https://github.com/dhensen/dotfiles) - just my dotfiles
 * [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 * [granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
