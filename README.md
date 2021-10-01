@@ -1,4 +1,6 @@
 # Awesome - Starred repositories
+* [nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview
+* [extract-table](https://github.com/vegarsti/extract-table) - API for extracting a table from an image of a table
 * [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 * [zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 * [dieter-rams-10-applied-to-software](https://github.com/zedr/dieter-rams-10-applied-to-software) - 
@@ -296,7 +298,6 @@
 * [lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go ⚡️
 * [Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
 * [polyglot](https://github.com/grpc-ecosystem/polyglot) - A universal grpc command line client
-* [auth0-go](https://github.com/auth0-community/auth0-go) - :closed_lock_with_key: Go package helping to deal with Auth0
 * [go-proto-gql](https://github.com/danielvladco/go-proto-gql) - Protobuff plugins for generating graphql schema and golang to graphql bindings. Also supports a graphql gateway (Alpha)
 * [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 * [layer](https://github.com/cloudkj/layer) - Neural network inference the Unix way
@@ -376,7 +377,7 @@
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
 * [kubernetes](https://github.com/microhq/kubernetes) - Deprecated: See examples/kubernetes
 * [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
+* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 * [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 * [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
 * [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
