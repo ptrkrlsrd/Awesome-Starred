@@ -1,4 +1,8 @@
 # Awesome - Starred repositories
+* [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
+* [grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) - A command-line tool to perform health-checks for gRPC applications in Kubernetes etc.
+* [flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+* [ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
 * [nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview
 * [extract-table](https://github.com/vegarsti/extract-table) - API for extracting a table from an image of a table
 * [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
