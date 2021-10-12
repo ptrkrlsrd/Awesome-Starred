@@ -1,10 +1,12 @@
 # Awesome - Starred repositories
+* [vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
+* [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 * [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 * [grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) - A command-line tool to perform health-checks for gRPC applications in Kubernetes etc.
 * [flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 * [ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
 * [nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview
-* [extract-table](https://github.com/vegarsti/extract-table) - API for extracting a table from an image of a table
+* [extract-table](https://github.com/vegarsti/extract-table) - API for extracting a table from an image or a PDF
 * [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
 * [zally](https://github.com/zalando/zally) - A minimalistic, simple-to-use API linter
 * [dieter-rams-10-applied-to-software](https://github.com/zedr/dieter-rams-10-applied-to-software) - 
@@ -73,7 +75,7 @@
 * [linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 * [looper-max](https://github.com/loopier/looper-max) - A tapedelay-like looper built in Max/MSP
 * [synthdefs](https://github.com/loopier/synthdefs) - A collections of Supercollider synths
-* [craftsman](https://github.com/pdevito3/craftsman) - Craftsman is the workhorse behind the Wrapt framework and provides a suite of CLI commands for quickly scaffolding out new files and projects for your .NET Web APIs with simple CLI commands and configuration files.
+* [craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool so you can stop worrying about boilerplate and focus on your business logic 🚀
 * [OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 * [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
@@ -228,7 +230,7 @@
 * [pg_prometheus](https://github.com/timescale/pg_prometheus) - PostgreSQL extension for Prometheus data
 * [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 * [codeform](https://github.com/matryer/codeform) - Easy Go code generation using templates
-* [lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm
+* [lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm
 * [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 * [squash](https://github.com/solo-io/squash) - The debugger for microservices
 * [iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
@@ -457,7 +459,7 @@
 * [postgres](https://github.com/gokv/postgres) - 
 * [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 * [remoto](https://github.com/machinebox/remoto) - Ultra-simple RPC ecosystem designed for right now.
-* [lxd](https://github.com/lxc/lxd) - Daemon based on liblxc offering a REST API to manage containers
+* [lxd](https://github.com/lxc/lxd) - Daemon offering a REST API to manage containers and virtual machines
 * [remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 * [go-jsonnet](https://github.com/google/go-jsonnet) - 
 * [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 4 Material Design Admin
