@@ -1,4 +1,6 @@
 # Awesome - Starred repositories
+* [spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
+* [rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 * [vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
 * [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 * [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
@@ -75,7 +77,7 @@
 * [linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 * [looper-max](https://github.com/loopier/looper-max) - A tapedelay-like looper built in Max/MSP
 * [synthdefs](https://github.com/loopier/synthdefs) - A collections of Supercollider synths
-* [craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool so you can stop worrying about boilerplate and focus on your business logic 🚀
+* [craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
 * [OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 * [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
@@ -144,7 +146,7 @@
 * [opentelemetry-collector-testing](https://github.com/open-o11y/opentelemetry-collector-testing) - 
 * [scnvim](https://github.com/davidgranstrom/scnvim) - Neovim frontend for SuperCollider.
 * [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
-* [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
+* [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
 * [pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 * [agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud. 
 * [eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
@@ -355,7 +357,7 @@
 * [faas-netes](https://github.com/openfaas/faas-netes) - Serverless on Kubernetes with OpenFaaS
 * [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 * [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
-* [micro](https://github.com/micro/micro) - Micro is an operating system for the cloud
+* [micro](https://github.com/micro/micro) - Micro is an open source distributed cloud OS
 * [consul-on-kubernetes](https://github.com/kelseyhightower/consul-on-kubernetes) - Running HashiCorp's Consul on Kubernetes
 * [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 * [functional.pipe](https://github.com/andrewchaa/functional.pipe) - C# implementation of F# pipe
