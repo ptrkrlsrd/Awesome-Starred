@@ -78,7 +78,7 @@
 * [looper-max](https://github.com/loopier/looper-max) - A tapedelay-like looper built in Max/MSP
 * [synthdefs](https://github.com/loopier/synthdefs) - A collections of Supercollider synths
 * [craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
-* [OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine.
+* [OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 * [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 * [zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
