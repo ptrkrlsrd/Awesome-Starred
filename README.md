@@ -1,4 +1,4 @@
-# Awesome - Starred repositories
+# Awesome - Starred repositoriesAn automated list of my starred projects.
 * [spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 * [rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 * [vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
@@ -576,7 +576,7 @@
 * [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 * [webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.
 * [ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
-* [husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
+* [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 * [react-facebook-login](https://github.com/keppelen/react-facebook-login) - A Component React for Facebook Login
 * [login-flow](https://github.com/mxstbr/login-flow) - :key: A login/register flow built with React&Redux
 * [react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
