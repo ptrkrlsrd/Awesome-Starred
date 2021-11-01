@@ -1,4 +1,6 @@
 # Awesome - Starred repositoriesAn automated list of my starred projects.
+* [nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
+* [Framework](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages.
 * [spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 * [rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 * [vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
@@ -81,7 +83,6 @@
 * [OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 * [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
-* [zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 * [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
 * [git-plan](https://github.com/synek/git-plan) - Git Plan - a better workflow for git
 * [gjson.rs](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust
@@ -666,7 +667,7 @@
 * [Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
 * [neo](https://github.com/mozilla/neo) - DEPRECATED: See https://neutrino.js.org for alternative
 * [kyt](https://github.com/nytimes/kyt) - Starting a new JS app? Build, test and run advanced apps with kyt 🔥
-* [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
+* [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
 * [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 * [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 * [dotfiles](https://github.com/dhensen/dotfiles) - just my dotfiles
