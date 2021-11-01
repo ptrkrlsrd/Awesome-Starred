@@ -1,5 +1,5 @@
-# Awesome - Starred repositories
-## An automated list of my starred projects.
+# Awesome automated list of my starred repositories
+
 * [nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 * [Framework](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages.
 * [spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
