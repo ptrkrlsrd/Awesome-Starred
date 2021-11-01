@@ -68,14 +68,10 @@ func main() {
 	}
 
 	w := bufio.NewWriter(file)
-	if err := writeStringToBuffer(w, "# Awesome - Starred repositories\n"); err != nil {
+	if err := writeStringToBuffer(w, "# Awesome automated list of my starred repositories\n"); err != nil {
 		log.Panic(err)
 	}
 	
-	
-	if err := writeStringToBuffer(w, "## An automated list of my starred projects."); err != nil {
-		log.Panic(err)
-	}
 
 	err = writeStarsToFile(starred, w)
 	if err != nil {
