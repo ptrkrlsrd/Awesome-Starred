@@ -77,7 +77,7 @@
 * [space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 * [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 * [vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
-* [navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰
+* [navigator.lua](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Understand code like a boss 🦍.
 * [docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 * [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 * [linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
