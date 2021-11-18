@@ -1,5 +1,7 @@
 # Awesome automated list of my starred repositories
 
+* [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
+* [kubectl-wipeout](https://github.com/mattn/kubectl-wipeout) - 
 * [hop](https://github.com/Jarred-Sumner/hop) - 
 * [nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 * [Framework](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages.
@@ -481,7 +483,7 @@
 * [jargon](https://github.com/clipperhouse/jargon) - Tokenizers and lemmatizers for Go
 * [p-tap](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
 * [captainhook](https://github.com/bketelsen/captainhook) - A generic webhook endpoint that runs scripts based on the URL called
-* [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform
+* [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 * [kube-theme](https://github.com/BeameryHQ/kube-theme) - Making managing kubernetes cluster easier
 * [clay](https://github.com/utrack/clay) - Proto-first minimal server platform for gRPС+REST+Swagger APIs
 * [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
