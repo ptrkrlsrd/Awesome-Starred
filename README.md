@@ -1,7 +1,7 @@
 # Awesome automated list of my starred repositories
 
 * [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-* [history-navigation-vue](https://github.com/hezedu/history-navigation-vue) - A native-like navigation for Web apps.
+* [history-navigation-vue](https://github.com/hezedu/history-navigation-vue) - Native-like navigation for Web apps.
 * [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 * [kubectl-wipeout](https://github.com/mattn/kubectl-wipeout) - 
 * [hop](https://github.com/Jarred-Sumner/hop) - 
@@ -59,7 +59,7 @@
 * [git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 * [slowjam](https://github.com/google/slowjam) - SlowJam: latency profiler for Go programs
 * [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
-* [novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
+* [novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support.
 * [gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
 * [ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is an open-source low-code platform for building and deploying internal tools with minimal engineering efforts 🚀
 * [goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
@@ -85,7 +85,7 @@
 * [linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 * [looper-max](https://github.com/loopier/looper-max) - A tapedelay-like looper built in Max/MSP
 * [synthdefs](https://github.com/loopier/synthdefs) - A collections of Supercollider synths
-* [craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
+* [craftsman](https://github.com/pdevito3/craftsman) - A .NET 6 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
 * [OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
 * [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 * [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
@@ -313,7 +313,7 @@
 * [lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go ⚡️
 * [Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
 * [polyglot](https://github.com/grpc-ecosystem/polyglot) - A universal grpc command line client
-* [go-proto-gql](https://github.com/danielvladco/go-proto-gql) - Protobuff plugins for generating graphql schema and golang to graphql bindings. Also supports a graphql gateway (Alpha)
+* [go-proto-gql](https://github.com/danielvladco/go-proto-gql) - Protobuf plugins for generating graphql schema and golang to graphql bindings. Also supports a graphql gateway (Alpha)
 * [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
 * [layer](https://github.com/cloudkj/layer) - Neural network inference the Unix way
 * [cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
