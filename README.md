@@ -1,5 +1,6 @@
 # Awesome automated list of my starred repositories
 
+* [Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim splits and tmux panes :sparkles:
 * [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 * [history-navigation-vue](https://github.com/hezedu/history-navigation-vue) - Native-like navigation for Web apps.
 * [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
