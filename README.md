@@ -1,8 +1,9 @@
 # Awesome automated list of my starred repositories
 
+* [zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 * [Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim splits and tmux panes :sparkles:
 * [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-* [history-navigation-vue](https://github.com/hezedu/history-navigation-vue) - Native-like navigation for Web apps.
+* [history-navigation-vue](https://github.com/hezedu/history-navigation-vue) - Native-like navigation for web apps.
 * [krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 * [kubectl-wipeout](https://github.com/mattn/kubectl-wipeout) - 
 * [hop](https://github.com/Jarred-Sumner/hop) - 
@@ -396,7 +397,7 @@
 * [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 * [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
 * [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-* [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+* [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 * [auth0-golang-api-samples](https://github.com/auth0-samples/auth0-golang-api-samples) - Auth0 Integration Samples for Go REST API Services
 * [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 * [pipe](https://github.com/pipelined/pipe) - DSP pipeline
@@ -460,7 +461,7 @@
 * [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 * [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 * [router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
-* [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+* [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 * [go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
 * [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 * [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
@@ -573,7 +574,7 @@
 * [onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 * [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 * [REST-auth](https://github.com/miguelgrinberg/REST-auth) - Example application for my RESTful Authentication with Flask article.
-* [Rack](https://github.com/VCVRack/Rack) - The Eurorack Simulator
+* [Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio
 * [coinbasepro-python](https://github.com/danpaquin/coinbasepro-python) - The unofficial Python client for the Coinbase Pro API
 * [micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
