@@ -1,5 +1,6 @@
 # Awesome automated list of my starred repositories
 
+* [okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 * [zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 * [Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim splits and tmux panes :sparkles:
 * [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -145,7 +146,7 @@
 * [go-echarts](https://github.com/go-echarts/go-echarts) - 🎨 The adorable charts library for Golang
 * [statsview](https://github.com/go-echarts/statsview) - 🚀 A real-time Golang runtime stats visualization profiler
 * [try-convert](https://github.com/dotnet/try-convert) - Helping .NET developers port their projects to .NET Core!
-* [k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
+* [k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes by Team Lens
 * [homebrew-virt-manager](https://github.com/jeffreywildman/homebrew-virt-manager) - A set of homebrew formulae to install virt-manager and virt-viewer on MAC OSX
 * [spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 * [structslop](https://github.com/orijtech/structslop) - structslop is a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
