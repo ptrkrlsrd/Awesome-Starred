@@ -20,19 +20,21 @@ func (a StarredRepositories) Len() int           { return len(a) }
 func (a StarredRepositories) Less(i, j int) bool { return a[i].StarredAt.After(a[j].StarredAt.Time) }
 func (a StarredRepositories) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
 
+type StarChannel chan ([]*github.StarredRepository)
+
+func (s StarChannel) Listen(starred *StarredRepositories) {
+	for {
+		*starred = append(*starred, <-s...)
+	}
+}
 func main() {
 	token := os.Getenv("GITHUB_TOKEN")
 	ctx, client := newGithubClient(token)
 
-	var starred []*github.StarredRepository
-	var starChan = make(chan []*github.StarredRepository)
+	var starred StarredRepositories
+	var starChan = make(StarChannel)
 
-	go func() {
-		for {
-			stars := <-starChan
-			starred = append(starred, stars...)
-		}
-	}()
+	go starChan.Listen(&starred)
 
 	starList, initialResp, err := getStarsForPage(1, client, ctx)
 	starChan <- starList
@@ -56,7 +58,7 @@ func main() {
 
 	sort.Sort(StarredRepositories(starred))
 
-	file, err := createFile("./README.md")
+	file, err := createFile("README.md")
 	if err != nil {
 		log.Panic(err)
 	}
@@ -128,10 +130,7 @@ func getStarsForPage(page int, client *github.Client, ctx context.Context) ([]*g
 		Direction: "desc",
 	}
 
-	listOptions := github.ListOptions{
-		Page:    page,
-		PerPage: 100,
-	}
+	listOptions := github.ListOptions{Page: page, PerPage: 100}
 
 	opts.ListOptions = listOptions
 	starList, resp, err := client.Activity.ListStarred(ctx, "", opts)
