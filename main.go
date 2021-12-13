@@ -16,20 +16,20 @@ import (
 
 type StarredRepositories []*github.StarredRepository
 
-func (starred StarredRepositories) Len() int {
-	return len(starred)
+func (starList StarredRepositories) Len() int {
+	return len(starList)
 }
 
-func (starred StarredRepositories) Less(i, j int) bool {
-	return starred[i].StarredAt.After(starred[j].StarredAt.Time)
+func (starList StarredRepositories) Less(i, j int) bool {
+	return starList[i].StarredAt.After(starList[j].StarredAt.Time)
 }
 
-func (starred StarredRepositories) Swap(i, j int) {
-	starred[i], starred[j] = starred[j], starred[i]
+func (starList StarredRepositories) Swap(i, j int) {
+	starList[i], starList[j] = starList[j], starList[i]
 }
 
-func (starred StarredRepositories) writeAll(writer *bufio.Writer) error {
-	for _, v := range starred {
+func (starList StarredRepositories) writeAll(writer *bufio.Writer) error {
+	for _, v := range starList {
 		name := *v.Repository.Name
 		url := *v.Repository.HTMLURL
 
@@ -47,18 +47,13 @@ func (starred StarredRepositories) writeAll(writer *bufio.Writer) error {
 	return nil
 }
 
-func (starred StarredRepositories) SaveToFile(filename string) error {
-	file, err := os.Create(filename)
-	if err != nil {
-		return err
-	}
-
+func (starList StarredRepositories) SaveToFile(file *os.File) error {
 	writer := bufio.NewWriter(file)
 	if _, err := writer.WriteString("# Awesome automated list of my starred repositories\n"); err != nil {
 		return err
 	}
 
-	if err = starred.writeAll(writer); err != nil {
+	if err := starList.writeAll(writer); err != nil {
 		return err
 	}
 
@@ -78,10 +73,10 @@ func main() {
 	token := os.Getenv("GITHUB_TOKEN")
 	ctx, client := newGithubClient(token)
 
-	var starred StarredRepositories
+	var allStars StarredRepositories
 	var starChan = make(StarChannel)
 
-	go starChan.Listen(&starred)
+	go starChan.Listen(&allStars)
 
 	starList, initialResp, err := getStarsForPage(1, client, ctx)
 	starChan <- starList
@@ -103,9 +98,14 @@ func main() {
 	}
 	wg.Wait()
 
-	sort.Sort(StarredRepositories(starred))
+	sort.Sort(StarredRepositories(allStars))
 
-	if err := starred.SaveToFile("README.md"); err != nil {
+	file, err := os.Create("README.md")
+	if err != nil {
+		log.Panic(err)
+	}
+
+	if err := allStars.SaveToFile(file); err != nil {
 		log.Panic(err)
 	}
 }
@@ -121,14 +121,9 @@ func newGithubClient(token string) (context.Context, *github.Client) {
 }
 
 func getStarsForPage(page int, client *github.Client, ctx context.Context) ([]*github.StarredRepository, *github.Response, error) {
-	opts := &github.ActivityListStarredOptions{
-		Sort:      "created",
-		Direction: "desc",
-	}
+	opts := &github.ActivityListStarredOptions{Sort: "created", Direction: "desc"}
 
-	listOptions := github.ListOptions{Page: page, PerPage: 100}
-
-	opts.ListOptions = listOptions
+	opts.ListOptions = github.ListOptions{Page: page, PerPage: 100}
 	starList, resp, err := client.Activity.ListStarred(ctx, "", opts)
 	if err != nil {
 		return nil, nil, err
