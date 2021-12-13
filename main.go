@@ -28,7 +28,7 @@ func (starred StarredRepositories) Swap(i, j int) {
 	starred[i], starred[j] = starred[j], starred[i]
 }
 
-func (starred StarredRepositories) WriteAll(writer *bufio.Writer) error {
+func (starred StarredRepositories) writeAll(writer *bufio.Writer) error {
 	for _, v := range starred {
 		name := *v.Repository.Name
 		url := *v.Repository.HTMLURL
@@ -39,13 +39,30 @@ func (starred StarredRepositories) WriteAll(writer *bufio.Writer) error {
 		}
 
 		content := fmt.Sprintf("\n* [%s](%s) - %s", name, url, desc)
-		_, err := writer.WriteString(content)
-		if err != nil {
+		if _, err := writer.WriteString(content); err != nil {
 			return err
 		}
 	}
 
 	return nil
+}
+
+func (starred StarredRepositories) SaveToFile(filename string) {
+	file, err := os.Create(filename)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	writer := bufio.NewWriter(file)
+	if _, err := writer.WriteString("# Awesome automated list of my starred repositories\n"); err != nil {
+		log.Panic(err)
+	}
+
+	if err = starred.writeAll(writer); err != nil {
+		log.Panic(err)
+	}
+
+	writer.Flush()
 }
 
 type StarChannel chan (StarredRepositories)
@@ -88,25 +105,6 @@ func main() {
 	sort.Sort(StarredRepositories(starred))
 
 	starred.SaveToFile("README.md")
-}
-
-func (starred StarredRepositories) SaveToFile(filename string) {
-	file, err := os.Create(filename)
-	if err != nil {
-		log.Panic(err)
-	}
-
-	writer := bufio.NewWriter(file)
-	if _, err := writer.WriteString("# Awesome automated list of my starred repositories\n"); err != nil {
-		log.Panic(err)
-	}
-
-	err = starred.WriteAll(writer)
-	if err != nil {
-		log.Panic(err)
-	}
-
-	writer.Flush()
 }
 
 func newGithubClient(token string) (context.Context, *github.Client) {
