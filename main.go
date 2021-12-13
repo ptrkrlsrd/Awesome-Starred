@@ -16,11 +16,39 @@ import (
 
 type StarredRepositories []*github.StarredRepository
 
-func (a StarredRepositories) Len() int           { return len(a) }
-func (a StarredRepositories) Less(i, j int) bool { return a[i].StarredAt.After(a[j].StarredAt.Time) }
-func (a StarredRepositories) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func (a StarredRepositories) Len() int { 
+	return len(a) 
+}
 
-type StarChannel chan ([]*github.StarredRepository)
+func (a StarredRepositories) Less(i, j int) bool { 
+	return a[i].StarredAt.After(a[j].StarredAt.Time)
+}
+
+func (a StarredRepositories) Swap(i, j int) { 
+	a[i], a[j] = a[j], a[i] 
+}
+
+func (starred StarredRepositories) WriteAll(writer *bufio.Writer) error {
+	for _, v := range starred {
+		name := *v.Repository.Name
+		url := *v.Repository.HTMLURL
+
+		desc := ""
+		if v.Repository.Description != nil {
+			desc = *v.Repository.Description
+		}
+
+		content := fmt.Sprintf("\n* [%s](%s) - %s", name, url, desc)
+		_, err := writer.WriteString(content)
+		if err != nil {
+			return err
+		}
+	}
+
+	return nil
+}
+
+type StarChannel chan (StarredRepositories)
 
 func (s StarChannel) Listen(starred *StarredRepositories) {
 	for {
@@ -59,18 +87,17 @@ func main() {
 
 	sort.Sort(StarredRepositories(starred))
 
-	file, err := createFile("README.md")
+	file, err := os.Create("README.md")
 	if err != nil {
 		log.Panic(err)
 	}
 
 	w := bufio.NewWriter(file)
-	if err := writeStringToBuffer(w, "# Awesome automated list of my starred repositories\n"); err != nil {
-
+	if err := w.WriteString(w, "# Awesome automated list of my starred repositories\n"); err != nil {
 		log.Panic(err)
 	}
 
-	err = writeStarsToFile(starred, w)
+	err = starred.WriteAll(w)
 	if err != nil {
 		log.Panic(err)
 	}
@@ -86,43 +113,6 @@ func newGithubClient(token string) (context.Context, *github.Client) {
 	tc := oauth2.NewClient(ctx, ts)
 	client := github.NewClient(tc)
 	return ctx, client
-}
-
-func writeStarsToFile(starred []*github.StarredRepository, fileWriter *bufio.Writer) error {
-	for _, v := range starred {
-		name := *v.Repository.Name
-		desc := ""
-		if v.Repository.Description != nil {
-			desc = *v.Repository.Description
-		}
-		url := *v.Repository.HTMLURL
-
-		content := fmt.Sprintf("\n* [%s](%s) - %s", name, url, desc)
-		_, err := fileWriter.WriteString(content)
-		if err != nil {
-			return err
-		}
-	}
-
-	return nil
-}
-
-func writeStringToBuffer(w *bufio.Writer, content string) error {
-	_, err := w.WriteString(content)
-	if err != nil {
-		return err
-	}
-
-	return nil
-}
-
-func createFile(fileName string) (*os.File, error) {
-	f, err := os.Create(fileName)
-	if err != nil {
-		return nil, err
-	}
-
-	return f, err
 }
 
 func getStarsForPage(page int, client *github.Client, ctx context.Context) ([]*github.StarredRepository, *github.Response, error) {
