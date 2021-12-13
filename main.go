@@ -22,12 +22,7 @@ func (a StarredRepositories) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
 
 func main() {
 	token := os.Getenv("GITHUB_TOKEN")
-	ctx := context.Background()
-	ts := oauth2.StaticTokenSource(
-		&oauth2.Token{AccessToken: token},
-	)
-	tc := oauth2.NewClient(ctx, ts)
-	client := github.NewClient(tc)
+	ctx, client := newGithubClient(token)
 
 	var starred []*github.StarredRepository
 	var starChan = make(chan []*github.StarredRepository)
@@ -59,7 +54,6 @@ func main() {
 	}
 	wg.Wait()
 
-	log.Printf("Total stars: %d", len(starred))
 	sort.Sort(StarredRepositories(starred))
 
 	file, err := createFile("./README.md")
@@ -69,9 +63,9 @@ func main() {
 
 	w := bufio.NewWriter(file)
 	if err := writeStringToBuffer(w, "# Awesome automated list of my starred repositories\n"); err != nil {
+
 		log.Panic(err)
 	}
-	
 
 	err = writeStarsToFile(starred, w)
 	if err != nil {
@@ -79,6 +73,16 @@ func main() {
 	}
 
 	w.Flush()
+}
+
+func newGithubClient(token string) (context.Context, *github.Client) {
+	ctx := context.Background()
+	ts := oauth2.StaticTokenSource(
+		&oauth2.Token{AccessToken: token},
+	)
+	tc := oauth2.NewClient(ctx, ts)
+	client := github.NewClient(tc)
+	return ctx, client
 }
 
 func writeStarsToFile(starred []*github.StarredRepository, fileWriter *bufio.Writer) error {
@@ -100,15 +104,6 @@ func writeStarsToFile(starred []*github.StarredRepository, fileWriter *bufio.Wri
 	return nil
 }
 
-func createFile(fileName string) (*os.File, error) {
-	f, err := os.Create(fileName)
-	if err != nil {
-		return nil, err
-	}
-
-	return f, err
-}
-
 func writeStringToBuffer(w *bufio.Writer, content string) error {
 	_, err := w.WriteString(content)
 	if err != nil {
@@ -116,6 +111,15 @@ func writeStringToBuffer(w *bufio.Writer, content string) error {
 	}
 
 	return nil
+}
+
+func createFile(fileName string) (*os.File, error) {
+	f, err := os.Create(fileName)
+	if err != nil {
+		return nil, err
+	}
+
+	return f, err
 }
 
 func getStarsForPage(page int, client *github.Client, ctx context.Context) ([]*github.StarredRepository, *github.Response, error) {
@@ -130,10 +134,10 @@ func getStarsForPage(page int, client *github.Client, ctx context.Context) ([]*g
 	}
 
 	opts.ListOptions = listOptions
-	starList, initialResp, err := client.Activity.ListStarred(ctx, "", opts)
+	starList, resp, err := client.Activity.ListStarred(ctx, "", opts)
 	if err != nil {
 		return nil, nil, err
 	}
 
-	return starList, initialResp, nil
+	return starList, resp, nil
 }
