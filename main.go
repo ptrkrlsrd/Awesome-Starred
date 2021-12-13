@@ -16,16 +16,16 @@ import (
 
 type StarredRepositories []*github.StarredRepository
 
-func (a StarredRepositories) Len() int { 
-	return len(a) 
+func (starred StarredRepositories) Len() int {
+	return len(starred)
 }
 
-func (a StarredRepositories) Less(i, j int) bool { 
-	return a[i].StarredAt.After(a[j].StarredAt.Time)
+func (starred StarredRepositories) Less(i, j int) bool {
+	return starred[i].StarredAt.After(starred[j].StarredAt.Time)
 }
 
-func (a StarredRepositories) Swap(i, j int) { 
-	a[i], a[j] = a[j], a[i] 
+func (starred StarredRepositories) Swap(i, j int) {
+	starred[i], starred[j] = starred[j], starred[i]
 }
 
 func (starred StarredRepositories) WriteAll(writer *bufio.Writer) error {
@@ -87,22 +87,26 @@ func main() {
 
 	sort.Sort(StarredRepositories(starred))
 
-	file, err := os.Create("README.md")
+	starred.SaveToFile("README.md")
+}
+
+func (starred StarredRepositories) SaveToFile(filename string) {
+	file, err := os.Create(filename)
 	if err != nil {
 		log.Panic(err)
 	}
 
-	w := bufio.NewWriter(file)
-	if err := w.WriteString(w, "# Awesome automated list of my starred repositories\n"); err != nil {
+	writer := bufio.NewWriter(file)
+	if _, err := writer.WriteString("# Awesome automated list of my starred repositories\n"); err != nil {
 		log.Panic(err)
 	}
 
-	err = starred.WriteAll(w)
+	err = starred.WriteAll(writer)
 	if err != nil {
 		log.Panic(err)
 	}
 
-	w.Flush()
+	writer.Flush()
 }
 
 func newGithubClient(token string) (context.Context, *github.Client) {
