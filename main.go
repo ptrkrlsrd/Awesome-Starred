@@ -47,22 +47,23 @@ func (starred StarredRepositories) writeAll(writer *bufio.Writer) error {
 	return nil
 }
 
-func (starred StarredRepositories) SaveToFile(filename string) {
+func (starred StarredRepositories) SaveToFile(filename string) error {
 	file, err := os.Create(filename)
 	if err != nil {
-		log.Panic(err)
+		return err
 	}
 
 	writer := bufio.NewWriter(file)
 	if _, err := writer.WriteString("# Awesome automated list of my starred repositories\n"); err != nil {
-		log.Panic(err)
+		return err
 	}
 
 	if err = starred.writeAll(writer); err != nil {
-		log.Panic(err)
+		return err
 	}
 
 	writer.Flush()
+	return nil
 }
 
 type StarChannel chan (StarredRepositories)
@@ -104,7 +105,9 @@ func main() {
 
 	sort.Sort(StarredRepositories(starred))
 
-	starred.SaveToFile("README.md")
+	if err := starred.SaveToFile("README.md"); err != nil {
+		log.Panic(err)
+	}
 }
 
 func newGithubClient(token string) (context.Context, *github.Client) {
