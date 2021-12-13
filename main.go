@@ -27,6 +27,7 @@ func (s StarChannel) Listen(starred *StarredRepositories) {
 		*starred = append(*starred, <-s...)
 	}
 }
+
 func main() {
 	token := os.Getenv("GITHUB_TOKEN")
 	ctx, client := newGithubClient(token)
