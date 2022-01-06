@@ -1,6 +1,6 @@
 # Awesome automated list of my starred repositories
 
-* [autoportforward](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker and kubernetes
+* [autoportforward](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker, podman and kubernetes
 * [thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 * [virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - A Neovim plugin that shows type annotations as virtual text
 * [crates.nvim](https://github.com/Saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
@@ -198,7 +198,7 @@
 * [ultimate-go](https://github.com/betty200744/ultimate-go) - This repo contains my notes on working with Go and computer systems. 
 * [vim-supercollider-snippets](https://github.com/madskjeldgaard/vim-supercollider-snippets) - Vim plugin adding snippet files for SuperCollider filetypes
 * [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-* [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+* [rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 * [superColliderStandalone-macOS](https://github.com/redFrik/superColliderStandalone-macOS) - Standalone template for macOS and SuperCollider
 * [odin](https://github.com/theycallmemac/odin) - A programmable, observable and distributed job orchestration system.
 * [vim-codepainter](https://github.com/lpinilla/vim-codepainter) - A plugin for Vim to color different parts of code making the use of Text Properties
@@ -522,7 +522,7 @@
 * [AppIcon](https://github.com/Nonchalant/AppIcon) - AppIcon generates *.appiconset contains each resolution image for iOS
 * [snake](https://github.com/amoffat/snake) - Full Python Scripting in Vim
 * [mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
-* [indicatif](https://github.com/mitsuhiko/indicatif) - A command line progress reporting library for Rust
+* [indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 * [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 * [react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
