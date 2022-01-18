@@ -303,7 +303,7 @@
 * [truss](https://github.com/metaverse/truss) - Truss helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.
 * [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
-* [kubernetes](https://github.com/microhq/kubernetes) - Deprecated: See examples/kubernetes
+* [kubernetes](https://github.com/go-microdev/kubernetes) - Deprecated: See examples/kubernetes
 * [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 * [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.
 * [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
@@ -313,7 +313,7 @@
 * [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 * [pipe](https://github.com/pipelined/pipe) - DSP pipeline
 * [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
-* [photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 🎄
+* [photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
 * [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow 
 * [http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
 * [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
@@ -827,7 +827,7 @@
 * [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go 
 * [gatsby-plugin-groq](https://github.com/kmcaloon/gatsby-plugin-groq) - Gatsby plugin for using GROQ in place of GraphQL
 * [gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
-* [examples](https://github.com/microhq/examples) - Go Micro examples. Moved to go-micro/examples.
+* [examples](https://github.com/go-microdev/examples) - Go Micro examples
 * [envconfig](https://github.com/kelseyhightower/envconfig) - Golang library for managing configuration data from environment variables
 * [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
 * [community-studio](https://github.com/sanity-io/community-studio) - Sanity Community Management Studio
