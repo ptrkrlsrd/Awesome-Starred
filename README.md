@@ -271,7 +271,7 @@
 * [hashbag](https://github.com/jonhoo/hashbag) - An unordered multiset/bag implementation backed by HashMap
 * [Mapster](https://github.com/MapsterMapper/Mapster) - A fast, fun and stimulating object to object Mapper
 * [grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
-* [onedev](https://github.com/theonedev/onedev) - Super Easy All-In-One DevOps Platform
+* [onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with Built-in CI/CD
 * [telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
 * [spotify-playlist-generation](https://github.com/TheDigitalFrontier/spotify-playlist-generation) - Spotify Recommendation Algorithm
 * [spectator-go](https://github.com/Netflix/spectator-go) - 
