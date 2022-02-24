@@ -1,5 +1,6 @@
 # Awesome automated list of my starred repositories
 
+* [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 * [UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 * [RegExtract](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
 * [dotnet-testcontainers](https://github.com/HofmeisterAn/dotnet-testcontainers) - 🐋 A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
@@ -399,7 +400,7 @@
 * [flow](https://github.com/dyrkin/flow) - Design a bot's conversation flow
 * [fsm](https://github.com/dyrkin/fsm) - Finite State Machine for Go inspired by Akka FSM
 * [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-* [typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
+* [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 * [corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
 * [kit](https://github.com/go-kit/kit) - A standard library for microservices.
 * [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
