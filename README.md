@@ -1,5 +1,6 @@
 # Awesome automated list of my starred repositories
 
+* [chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 * [oh-heck-cli](https://github.com/MikeDaniel18/oh-heck-cli) - 
 * [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 * [devtron](https://github.com/devtron-labs/devtron) - Web based CI/CD Platform for Kubernetes
@@ -199,7 +200,7 @@
 * [conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-* [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 6
+* [go-multierror](https://github.com/hashicorp/go-multierror) - A Go (golang) package for representing a list of errors as a single error.
 * [dcode](https://github.com/go-functional/dcode) - Decode JSON with Functional Decoders
 * [feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
 * [bpm](https://github.com/benjojo/bpm) - Library and tool for dealing with beats per second detection 
@@ -294,7 +295,7 @@
 * [faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 * [ish](https://github.com/ish-app/ish) - Linux shell for iOS
 * [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
-* [micro](https://github.com/micro/micro) - API first development platform
+* [micro](https://github.com/micro/micro) - API first cloud platform
 * [consul-on-kubernetes](https://github.com/kelseyhightower/consul-on-kubernetes) - Running HashiCorp's Consul on Kubernetes
 * [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 * [functional.pipe](https://github.com/andrewchaa/functional.pipe) - C# implementation of F# pipe
@@ -806,6 +807,7 @@
 * [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
+* [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 6
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 * [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 * [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
@@ -905,4 +907,3 @@
 * [gRPC-haskell](https://github.com/awakesecurity/gRPC-haskell) - Haskell gRPC support
 * [simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
 * [com](https://github.com/gliderlabs/com) - Library for structuring Golang applications into components
-* [go-multierror](https://github.com/hashicorp/go-multierror) - A Go (golang) package for representing a list of errors as a single error.
