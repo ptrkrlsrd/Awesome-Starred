@@ -89,7 +89,7 @@
 * [meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 * [git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
 * [docker-protoc](https://github.com/namely/docker-protoc) - Docker images for generating protocol buffer definitions
-* [nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context) - Show code context
+* [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 * [postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 * [Autographer-For-Unity](https://github.com/herohiralal/Autographer-For-Unity) - The simplest GraphView implementation you'll ever see with proper support for vertical ports, undo/redo, cut/copy/paste/delete handling etc.
 * [loopers](https://github.com/mwylde/loopers) - Loopers is graphical live looper, written in Rust, designed for ease of use and rock-solid stability
