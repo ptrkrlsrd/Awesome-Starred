@@ -79,6 +79,9 @@ func main() {
 	go starChan.Listen(&allStars)
 
 	starList, initialResp, err := getStarsForPage(1, client, ctx)
+	if err != nil {
+		log.Panic(err)
+	}
 	starChan <- starList
 	maxPages := initialResp.LastPage
 
