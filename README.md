@@ -35,7 +35,7 @@
 * [mixer](https://github.com/codegangsta/mixer) - Classy HTTP Handlers in Go
 * [jwt](https://github.com/cristalhq/jwt) - Safe, simple and fast JSON Web Tokens for Go
 * [crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
-* [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+* [httpie](https://github.com/httpie/httpie) - ⚡️ HTTPie for Terminal. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * [dog](https://github.com/ogham/dog) - A command-line DNS client.
 * [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 * [nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments, powered by treesitter
