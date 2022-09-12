@@ -118,7 +118,7 @@
 * [Autographer-For-Unity](https://github.com/herohiralal/Autographer-For-Unity) - The simplest GraphView implementation you'll ever see with proper support for vertical ports, undo/redo, cut/copy/paste/delete handling etc.
 * [loopers](https://github.com/mwylde/loopers) - Loopers is graphical live looper, written in Rust, designed for ease of use and rock-solid stability
 * [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
-* [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
+* [parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 * [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours. 
 * [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 * [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -571,7 +571,7 @@
 * [airbnb-data-collection](https://github.com/tomslee/airbnb-data-collection) - Data collection for Airbnb listings.
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 * [gonvim](https://github.com/dzhou121/gonvim) - 
-* [griddd](https://github.com/shankariyerr/griddd) - A dead simple, customisable, flexbox-based griddd
+* [griddd](https://github.com/shankara-subramani/griddd) - A dead simple, customisable, flexbox-based griddd
 * [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 * [preact-cli](https://github.com/preactjs/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.
 * [plate](https://github.com/seagreen/plate) - Principled schema system for JSON. Work in progress.
