@@ -100,6 +100,106 @@
 * [wacom-settings](https://github.com/avargas05/wacom-settings) - GUI for calibrating the wacom tablet to a screen or window
 * [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 * [impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
+* [pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
+* [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+* [sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
+* [symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
+* [analogcurve](https://github.com/jamshark70/analogcurve) - A SuperCollider UGen (draft) to add analog-ish distortion to a signal (credit to VCV Rack)
+* [viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
+* [psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+* [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+* [redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
+* [zx](https://github.com/google/zx) - A tool for writing better scripts
+* [meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+* [git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
+* [docker-protoc](https://github.com/namely/docker-protoc) - Docker images for generating protocol buffer definitions
+* [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
+* [postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
+* [Autographer-For-Unity](https://github.com/herohiralal/Autographer-For-Unity) - The simplest GraphView implementation you'll ever see with proper support for vertical ports, undo/redo, cut/copy/paste/delete handling etc.
+* [loopers](https://github.com/mwylde/loopers) - Loopers is graphical live looper, written in Rust, designed for ease of use and rock-solid stability
+* [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+* [parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
+* [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours. 
+* [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+* [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+* [twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
+* [neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+* [earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+* [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
+* [tag](https://github.com/PierreKieffer/tag) - Git utility to create tags in order to identify specific releases
+* [rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
+* [grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
+* [bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
+* [git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
+* [slowjam](https://github.com/google/slowjam) - SlowJam: latency profiler for Go programs
+* [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
+* [novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.3+) for cross-platform support.
+* [gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
+* [ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+* [goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
+* [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
+* [nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
+* [otel-demo](https://github.com/michaelperel/otel-demo) - 
+* [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library 
+* [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+* [Project_CodeNet](https://github.com/IBM/Project_CodeNet) - This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX
+* [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
+* [mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
+* [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
+* [gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
+* [bin](https://github.com/marcosnils/bin) - Effortless binary manager
+* [profile](https://github.com/pkg/profile) - Simple profiling for Go
+* [goide](https://github.com/kaihendry/goide) - Docker run to a sane vim-go setup
+* [space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
+* [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
+* [vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
+* [navigator.lua](https://github.com/ray-x/navigator.lua) - Source code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Take control like a boss 🦍.
+* [docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
+* [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
+* [linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
+* [looper-max](https://github.com/loopier/looper-max) - A tapedelay-like looper built in Max/MSP
+* [synthdefs](https://github.com/loopier/synthdefs) - A collections of Supercollider synths
+* [craftsman](https://github.com/pdevito3/craftsman) - A .NET 6 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
+* [OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
+* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+* [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
+* [grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
+* [git-plan](https://github.com/synek/git-plan) - Git Plan - a better workflow for git
+* [gjson.rs](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust
+* [kspan](https://github.com/weaveworks-experiments/kspan) - Turning Kubernetes Events into spans
+* [protop](https://github.com/protop-io/protop) - protobufs, packaged. https://protop.io
+* [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+* [rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
+* [storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
+* [lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
+* [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
+* [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
+* [weaver](https://github.com/grantseltzer/weaver) - Trace Go program execution with uprobes and eBPF
+* [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+* [dama-rs](https://github.com/ap29600/dama-rs) - A simple menu to keep all your most used one-liners and scripts in one place
+* [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
+* [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+* [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
+* [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+* [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
+* [agenda](https://github.com/rougier/agenda) - Org agenda in the console
+* [evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
+* [DaisySP](https://github.com/electro-smith/DaisySP) - A Powerful, Open Source DSP Library in C++
+* [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+* [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
+* [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+* [nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
+* [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+* [revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
+* [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
+* [quickpick.vim](https://github.com/prabirshrestha/quickpick.vim) - experimental quick picker for vim
+* [dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
+* [librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+* [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing 
+* [edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
+* [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
+* [nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF
+* [showcase-books-search](https://github.com/typesense/showcase-books-search) - A site to instantly search 28M books from OpenLibrary using Typesense Search (an open source alternative to Algolia / ElasticSearch) ⚡ 📚 🔍
 * [pylut](https://github.com/gregcotten/pylut) - Create and Modify 3D LUTs in Python!
 * [3DLutConverter](https://github.com/spoilt-exile/3DLutConverter) - Small utility to convert 3d color luts between formats.
 * [kuroi.vim](https://github.com/aonemd/kuroi.vim) - A very dark colorscheme for Vim
@@ -400,106 +500,6 @@
 * [certificate-expiry-monitor-controller](https://github.com/mercari/certificate-expiry-monitor-controller) - Certificate Expiry Monitor Controller monitors the expiration of TLS certificates used in Ingress.
 * [blimp](https://github.com/walseb/blimp) - A complete wrapper around all imagemagick commands with autocompletion, descriptions and hints displayed in prompt
 * [kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
-* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-* [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-* [go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
-* [vim-coiled-snake](https://github.com/kalekundert/vim-coiled-snake) - Compact, but ready to strike. 🐍
-* [percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
-* [gotests-vim](https://github.com/buoto/gotests-vim) - Vim plugin for https://github.com/cweill/gotests
-* [gounit](https://github.com/hexdigest/gounit) - Unit tests generator for Go programming language
-* [gounit-vim](https://github.com/hexdigest/gounit-vim) - Vim plugin for https://github.com/hexdigest/gounit
-* [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
-* [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-* [ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
-* [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
-* [alt](https://github.com/dotboris/alt) - A simple version manager. Tool for switching between different versions of commands
-* [RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
-* [go-linq](https://github.com/ahmetb/go-linq) - .NET LINQ capabilities in Go
-* [go-langserver](https://github.com/sourcegraph/go-langserver) - Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
-* [ferret](https://github.com/nakkaya/ferret) - Ferret is a free software lisp implementation for real time embedded control systems.
-* [lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
-* [kit](https://github.com/kujtimiihoxha/kit) - GoKit CLI 
-* [containerum](https://github.com/containerum/containerum) - Web UI for Kubernetes with teamwork and CI/CD support
-* [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-* [hookah](https://github.com/wybiral/hookah) - A cross-platform tool for data pipelines.
-* [testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
-* [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-* [ff](https://github.com/ff-notes/ff) - A distributed note taker and task manager.
-* [captain](https://github.com/jenssegers/captain) - ⚓️ Easily start and stop docker compose projects
-* [ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
-* [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
-* [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
-* [router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
-* [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-* [go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
-* [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
-* [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
-* [mem](https://github.com/gokv/mem) - gokv/store compliant in-memory key value store
-* [store](https://github.com/gokv/store) - The Store interface
-* [postgres](https://github.com/gokv/postgres) - 
-* [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
-* [remoto](https://github.com/machinebox/remoto) - Ultra-simple RPC ecosystem designed for right now.
-* [lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
-* [remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
-* [go-jsonnet](https://github.com/google/go-jsonnet) - 
-* [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
-* [microsoft-drop-ice](https://github.com/selfagency/microsoft-drop-ice) - Tell Microsoft to drop ICE as a client or lose us as GitHub users
-* [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-* [elisp-bug-hunter](https://github.com/Malabarba/elisp-bug-hunter) - Hunt down errors in elisp files.
-* [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using Graphviz
-* [go-micro](https://github.com/asim/go-micro) - A Go microservices framework
-* [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
-* [corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
-* [kit](https://github.com/go-kit/kit) - A standard library for microservices.
-* [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
-* [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
-* [jargon](https://github.com/clipperhouse/jargon) - Tokenizers and lemmatizers for Go
-* [p-tap](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
-* [captainhook](https://github.com/bketelsen/captainhook) - A generic webhook endpoint that runs scripts based on the URL called
-* [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
-* [kube-theme](https://github.com/BeameryHQ/kube-theme) - Making managing kubernetes cluster easier
-* [clay](https://github.com/utrack/clay) - Proto-first minimal server platform for gRPС+REST+Swagger APIs
-* [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
-* [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
-* [sbr-go](https://github.com/maciejkula/sbr-go) - Recommender systems for Go
-* [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-* [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-* [shcl](https://github.com/SquircleSpace/shcl) - SHell in Common Lisp
-* [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
-* [jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
-* [staged](https://github.com/tv42/staged) - Run a command with the Git staged files
-* [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-* [CloudForest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in go/golang.
-* [gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
-* [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-* [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
-* [vim-colors-plain](https://github.com/andreypopp/vim-colors-plain) - Minimal colorscheme for vim
-* [skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
-* [fdb-nbd](https://github.com/dividuum/fdb-nbd) - A totally proof-of-concept FoundationDB based network block device backend
-* [textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
-* [xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
-* [closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
-* [gin-nice-recovery](https://github.com/ekyoung/gin-nice-recovery) - Gin middleware to render a nice looking error page when recovering from a panic.
-* [buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
-* [calendar-heatmap](https://github.com/g1eb/calendar-heatmap) - 📊 Calendar heatmap graph
-* [logody](https://github.com/sordina/logody) - concurrent process runner
-* [nixos-in-place](https://github.com/jeaye/nixos-in-place) - Install NixOS on top of any existing Linux distribution without rebooting
-* [gorespect](https://github.com/iamsalnikov/gorespect) - Show your respect to packages which you use in your projects
-* [vim-snazzy](https://github.com/connorholyday/vim-snazzy) - Elegant vim theme with bright colors.
-* [Lerp](https://github.com/dclelland/Lerp) - Linear interpolation microlibrary
-* [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-* [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
-* [nn](https://github.com/saschagrunert/nn) - A tiny neural network 🧠
-* [prodigy.el](https://github.com/rejeep/prodigy.el) - Manage external services from within Emacs
-* [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-* [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-* [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
-* [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
-* [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-* [Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
-* [go-health](https://github.com/Talento90/go-health) - :heart: Health check your applications and dependencies
-* [node_tradfri_ifttt](https://github.com/valenting/node_tradfri_ifttt) - Backend to control Ikea TRADFRI from IFTTT
-* [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
 * [qor](https://github.com/qor/qor) - QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
 * [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
 * [org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
@@ -847,103 +847,103 @@
 * [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
-* [pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-* [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-* [sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
-* [symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
-* [analogcurve](https://github.com/jamshark70/analogcurve) - A SuperCollider UGen (draft) to add analog-ish distortion to a signal (credit to VCV Rack)
-* [viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-* [psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-* [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-* [redwood](https://github.com/redwood/redwood) - A highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
-* [zx](https://github.com/google/zx) - A tool for writing better scripts
-* [meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
-* [git-switcher](https://github.com/TheYkk/git-switcher) - Switch between your git profiles easily
-* [docker-protoc](https://github.com/namely/docker-protoc) - Docker images for generating protocol buffer definitions
-* [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
-* [postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
-* [Autographer-For-Unity](https://github.com/herohiralal/Autographer-For-Unity) - The simplest GraphView implementation you'll ever see with proper support for vertical ports, undo/redo, cut/copy/paste/delete handling etc.
-* [loopers](https://github.com/mwylde/loopers) - Loopers is graphical live looper, written in Rust, designed for ease of use and rock-solid stability
-* [kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
-* [parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
-* [httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours. 
-* [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-* [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-* [twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
-* [neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
-* [earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
-* [envconsul](https://github.com/hashicorp/envconsul) - Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
-* [tag](https://github.com/PierreKieffer/tag) - Git utility to create tags in order to identify specific releases
-* [rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
-* [grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
-* [bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
-* [git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
-* [slowjam](https://github.com/google/slowjam) - SlowJam: latency profiler for Go programs
-* [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
-* [novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. It is written with Python 3 (3.7+) and Qt 5 (5.3+) for cross-platform support.
-* [gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
-* [ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-* [goto-preview](https://github.com/rmagatti/goto-preview) - A small Neovim plugin for previewing definitions using floating windows.
-* [atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-* [nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) - Preview tags in a floating window
-* [otel-demo](https://github.com/michaelperel/otel-demo) - 
-* [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library 
-* [tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
-* [Project_CodeNet](https://github.com/IBM/Project_CodeNet) - This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX
-* [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
-* [mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
-* [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
-* [gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
-* [bin](https://github.com/marcosnils/bin) - Effortless binary manager
-* [profile](https://github.com/pkg/profile) - Simple profiling for Go
-* [goide](https://github.com/kaihendry/goide) - Docker run to a sane vim-go setup
-* [space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
-* [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
-* [vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
-* [navigator.lua](https://github.com/ray-x/navigator.lua) - Source code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐.  Exploring LSP and 🌲Treesitter symbols a piece of 🍰. Take control like a boss 🦍.
-* [docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
-* [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-* [linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
-* [looper-max](https://github.com/loopier/looper-max) - A tapedelay-like looper built in Max/MSP
-* [synthdefs](https://github.com/loopier/synthdefs) - A collections of Supercollider synths
-* [craftsman](https://github.com/pdevito3/craftsman) - A .NET 6 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
-* [OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
-* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-* [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
-* [grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
-* [git-plan](https://github.com/synek/git-plan) - Git Plan - a better workflow for git
-* [gjson.rs](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust
-* [kspan](https://github.com/weaveworks-experiments/kspan) - Turning Kubernetes Events into spans
-* [protop](https://github.com/protop-io/protop) - protobufs, packaged. https://protop.io
-* [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-* [rkyv](https://github.com/rkyv/rkyv) - Zero-copy deserialization framework for Rust
-* [storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
-* [lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
-* [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-* [go-prompt](https://github.com/c-bata/go-prompt) - Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.
-* [weaver](https://github.com/grantseltzer/weaver) - Trace Go program execution with uprobes and eBPF
-* [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
-* [dama-rs](https://github.com/ap29600/dama-rs) - A simple menu to keep all your most used one-liners and scripts in one place
-* [glci](https://github.com/mdubourg001/glci) - 🦊 Test your Gitlab CI Pipelines changes locally using Docker.
-* [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-* [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-* [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-* [kiara](https://github.com/genkami/kiara) - Backend-agnostic, lightweight pub/sub library which makes it easy for Go applications to communicate with each other.
-* [agenda](https://github.com/rougier/agenda) - Org agenda in the console
-* [evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
-* [DaisySP](https://github.com/electro-smith/DaisySP) - A Powerful, Open Source DSP Library in C++
-* [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-* [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
-* [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
-* [nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
-* [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
-* [revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
-* [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
-* [quickpick.vim](https://github.com/prabirshrestha/quickpick.vim) - experimental quick picker for vim
-* [dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
-* [librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-* [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing 
-* [edamagit](https://github.com/kahole/edamagit) - Magit for VSCode
-* [awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp) - A curated list of my favourite music DSP and audio programming resources
-* [nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF
-* [showcase-books-search](https://github.com/typesense/showcase-books-search) - A site to instantly search 28M books from OpenLibrary using Typesense Search (an open source alternative to Algolia / ElasticSearch) ⚡ 📚 🔍
+* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+* [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+* [go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
+* [vim-coiled-snake](https://github.com/kalekundert/vim-coiled-snake) - Compact, but ready to strike. 🐍
+* [percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
+* [gotests-vim](https://github.com/buoto/gotests-vim) - Vim plugin for https://github.com/cweill/gotests
+* [gounit](https://github.com/hexdigest/gounit) - Unit tests generator for Go programming language
+* [gounit-vim](https://github.com/hexdigest/gounit-vim) - Vim plugin for https://github.com/hexdigest/gounit
+* [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
+* [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
+* [ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
+* [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
+* [alt](https://github.com/dotboris/alt) - A simple version manager. Tool for switching between different versions of commands
+* [RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
+* [go-linq](https://github.com/ahmetb/go-linq) - .NET LINQ capabilities in Go
+* [go-langserver](https://github.com/sourcegraph/go-langserver) - Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
+* [ferret](https://github.com/nakkaya/ferret) - Ferret is a free software lisp implementation for real time embedded control systems.
+* [lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
+* [kit](https://github.com/kujtimiihoxha/kit) - GoKit CLI 
+* [containerum](https://github.com/containerum/containerum) - Web UI for Kubernetes with teamwork and CI/CD support
+* [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+* [hookah](https://github.com/wybiral/hookah) - A cross-platform tool for data pipelines.
+* [testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
+* [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+* [ff](https://github.com/ff-notes/ff) - A distributed note taker and task manager.
+* [captain](https://github.com/jenssegers/captain) - ⚓️ Easily start and stop docker compose projects
+* [ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
+* [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
+* [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+* [router7](https://github.com/rtr7/router7) - a small home internet router completely written in Go
+* [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+* [go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
+* [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
+* [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
+* [mem](https://github.com/gokv/mem) - gokv/store compliant in-memory key value store
+* [store](https://github.com/gokv/store) - The Store interface
+* [postgres](https://github.com/gokv/postgres) - 
+* [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
+* [remoto](https://github.com/machinebox/remoto) - Ultra-simple RPC ecosystem designed for right now.
+* [lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
+* [remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
+* [go-jsonnet](https://github.com/google/go-jsonnet) - 
+* [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
+* [microsoft-drop-ice](https://github.com/selfagency/microsoft-drop-ice) - Tell Microsoft to drop ICE as a client or lose us as GitHub users
+* [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
+* [elisp-bug-hunter](https://github.com/Malabarba/elisp-bug-hunter) - Hunt down errors in elisp files.
+* [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using Graphviz
+* [go-micro](https://github.com/asim/go-micro) - A Go microservices framework
+* [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
+* [corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
+* [kit](https://github.com/go-kit/kit) - A standard library for microservices.
+* [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
+* [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
+* [jargon](https://github.com/clipperhouse/jargon) - Tokenizers and lemmatizers for Go
+* [p-tap](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
+* [captainhook](https://github.com/bketelsen/captainhook) - A generic webhook endpoint that runs scripts based on the URL called
+* [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+* [kube-theme](https://github.com/BeameryHQ/kube-theme) - Making managing kubernetes cluster easier
+* [clay](https://github.com/utrack/clay) - Proto-first minimal server platform for gRPС+REST+Swagger APIs
+* [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
+* [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
+* [sbr-go](https://github.com/maciejkula/sbr-go) - Recommender systems for Go
+* [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+* [toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+* [shcl](https://github.com/SquircleSpace/shcl) - SHell in Common Lisp
+* [opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+* [jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
+* [staged](https://github.com/tv42/staged) - Run a command with the Git staged files
+* [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+* [CloudForest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in go/golang.
+* [gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
+* [gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+* [pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
+* [vim-colors-plain](https://github.com/andreypopp/vim-colors-plain) - Minimal colorscheme for vim
+* [skor](https://github.com/hasura/skor) - Now part of Hasura GraphQL Engine. Listen to postgres events and forward them as JSON payloads to a webhook
+* [fdb-nbd](https://github.com/dividuum/fdb-nbd) - A totally proof-of-concept FoundationDB based network block device backend
+* [textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV
+* [xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+* [closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
+* [gin-nice-recovery](https://github.com/ekyoung/gin-nice-recovery) - Gin middleware to render a nice looking error page when recovering from a panic.
+* [buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
+* [calendar-heatmap](https://github.com/g1eb/calendar-heatmap) - 📊 Calendar heatmap graph
+* [logody](https://github.com/sordina/logody) - concurrent process runner
+* [nixos-in-place](https://github.com/jeaye/nixos-in-place) - Install NixOS on top of any existing Linux distribution without rebooting
+* [gorespect](https://github.com/iamsalnikov/gorespect) - Show your respect to packages which you use in your projects
+* [vim-snazzy](https://github.com/connorholyday/vim-snazzy) - Elegant vim theme with bright colors.
+* [Lerp](https://github.com/dclelland/Lerp) - Linear interpolation microlibrary
+* [cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+* [liman](https://github.com/salihciftci/liman) - Self-hosted web application for monitoring docker.
+* [nn](https://github.com/saschagrunert/nn) - A tiny neural network 🧠
+* [prodigy.el](https://github.com/rejeep/prodigy.el) - Manage external services from within Emacs
+* [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+* [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
+* [httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
+* [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+* [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+* [Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
+* [go-health](https://github.com/Talento90/go-health) - :heart: Health check your applications and dependencies
+* [node_tradfri_ifttt](https://github.com/valenting/node_tradfri_ifttt) - Backend to control Ikea TRADFRI from IFTTT
+* [gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go
