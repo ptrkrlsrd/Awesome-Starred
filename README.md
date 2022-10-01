@@ -1,5 +1,6 @@
 # Awesome automated list of my starred repositories
 
+* [dagu](https://github.com/yohamta/dagu) - A just another Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 * [peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time
 * [vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
 * [fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
@@ -399,7 +400,7 @@
 * [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 * [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 * [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-* [KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
+* [pprof](https://github.com/gin-contrib/pprof) - gin pprof middleware
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 * [gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
 * [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - :open_file_folder: generic protocol generator based on golang's text/template (grpc/protobuf)
@@ -853,6 +854,7 @@
 * [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
+* [KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 * [digitalocean_exporter](https://github.com/metalmatze/digitalocean_exporter) - Prometheus exporter for DigitalOcean metrics, written in Go.
 * [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
 * [protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
@@ -952,4 +954,3 @@
 * [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
 * [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 * [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-* [pprof](https://github.com/gin-contrib/pprof) - gin pprof middleware
