@@ -1,5 +1,6 @@
 # Awesome automated list of my starred repositories
 
+* [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 * [escape.nvim](https://github.com/m-gail/escape.nvim) - Escape or URL encode any text in your buffer
 * [tree-climber.nvim](https://github.com/drybalka/tree-climber.nvim) - 
 * [nvim-headband](https://github.com/B4mbus/nvim-headband) - 🐱‍👤 A simple and opinionated winbar
@@ -11,7 +12,7 @@
 * [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 * [tsai](https://github.com/timeseriesAI/tsai) - Time series Timeseries Deep Learning Machine Learning Pytorch  fastai | State-of-the-art Deep Learning library  for Time Series and Sequences in Pytorch / fastai
 * [searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
-* [refinery](https://github.com/code-kern-ai/refinery) - The open-source data-centric IDE for NLP. Combining programmatic labeling, extensive data management and neural search capabilities.
+* [refinery](https://github.com/code-kern-ai/refinery) - The data scientist's open-source choice to scale, assess and maintain natural language data. Treat training data like a software artifact.
 * [code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) - Neovim plugin.The best code runner you could have, it is like the one in vscode but with super powers, it manages projects like in intellij but without being slow
 * [NeoZoom.lua](https://github.com/nyngwang/NeoZoom.lua) - Zoom-in Like a Boss, How? Layout-Preserving Zoomer weighing in 🪶
 * [litee-calltree.nvim](https://github.com/ldelossa/litee-calltree.nvim) - Neovim's missing call hierarchy UI
@@ -53,7 +54,7 @@
 * [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 * [nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) - Nvim-plugin for doing the opposite of join-line (J) of arguments, powered by treesitter
 * [assert](https://github.com/alecthomas/assert) - A simple assertion library using Go generics
-* [dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+* [dagger](https://github.com/dagger/dagger) - A cross-platform CI/CD engine that is programmable and container-native
 * [chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 * [oh-heck-cli](https://github.com/MikeDaniel18/oh-heck-cli) - 
 * [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
@@ -99,7 +100,7 @@
 * [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 * [grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe) - A command-line tool to perform health-checks for gRPC applications in Kubernetes etc.
 * [flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-* [ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
+* [nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 * [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 * [revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 * [vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
@@ -153,7 +154,7 @@
 * [conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
 * [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * [bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-* [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 6
+* [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 7
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 * [watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 * [go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
@@ -858,6 +859,7 @@
 * [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
+* [ureq](https://github.com/algesten/ureq) - A simple, safe HTTP client
 * [nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview
 * [extract-table](https://github.com/vegarsti/extract-table) - API for extracting a table from an image or a PDF
 * [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration
@@ -957,4 +959,3 @@
 * [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 * [macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
 * [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
-* [nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
