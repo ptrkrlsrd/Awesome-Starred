@@ -651,7 +651,7 @@
 * [Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 * [auto-image-renamer](https://github.com/sanjujosh/auto-image-renamer) - Rename images using deep learning
 * [pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
-* [sqawk](https://github.com/dbohdan/sqawk) - Like Awk but with SQL and table joins
+* [sqawk](https://github.com/dbohdan/sqawk) - Like awk but with SQL and table joins
 * [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack
 * [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 * [sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
@@ -953,7 +953,7 @@
 * [space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 * [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 * [vulndb](https://github.com/golang/vulndb) - [mirror] The Go Vulnerability Database
-* [navigator.lua](https://github.com/ray-x/navigator.lua) - Source code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
+* [navigator.lua](https://github.com/ray-x/navigator.lua) - Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
 * [docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
 * [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 * [linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
