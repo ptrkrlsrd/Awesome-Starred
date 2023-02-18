@@ -400,6 +400,106 @@
 * [cloudmacs](https://github.com/karlicoss/cloudmacs) - Selfhost your Emacs and access it in browser
 * [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
 * [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
+* [gontroller](https://github.com/spotahome/gontroller) - Go library to create resilient feedback loop/control controllers.
+* [vue-notification](https://github.com/euvl/vue-notification) - :icecream: Vue.js 2 library for showing notifications
+* [entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
+* [fabric](https://github.com/spy16/fabric) - Fabric is a simple triplestore written in Golang
+* [lossy](https://github.com/cevatbarisyilmaz/lossy) - Go package to simulate bandwidth, latency and packet loss for net.PacketConn and net.Conn interfaces
+* [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
+* [problem](https://github.com/mschneider82/problem) - A go library that implements application/problem+json and application/problem+xml
+* [modelo](https://github.com/ptrkrlsrd/modelo) - Boilerplate your projects from Github Templates and Gists
+* [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
+* [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
+* [garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching. (We are hiring!)
+* [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+* [tyrannical](https://github.com/Elv13/tyrannical) - Dynamic tagging configuration system for awesomeWM
+* [lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go ⚡️
+* [Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+* [polyglot](https://github.com/grpc-ecosystem/polyglot) - A universal grpc command line client
+* [go-proto-gql](https://github.com/danielvladco/go-proto-gql) - Protobuf plugins for generating graphql schema and golang to graphql bindings. Also supports a graphql gateway (Alpha)
+* [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
+* [layer](https://github.com/cloudkj/layer) - Neural network inference the Unix way
+* [cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+* [signalr-no-jquery](https://github.com/DVLP/signalr-no-jquery) - 
+* [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
+* [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+* [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+* [KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
+* [digitalocean_exporter](https://github.com/metalmatze/digitalocean_exporter) - Prometheus exporter for DigitalOcean metrics, written in Go.
+* [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
+* [protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
+* [simple-streaming-datasource](https://github.com/seanlaff/simple-streaming-datasource) - End-to-end Grafana streaming datasource example
+* [lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
+* [vue-typescript-inject](https://github.com/SpringNyan/vue-typescript-inject) - Angular-like injector for Vue
+* [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - A Go (golang) package that enhances the standard database/sql package by providing powerful data retrieval methods as well as DB-agnostic query building capabilities.
+* [firestarter](https://github.com/wasamasa/firestarter) - Execute (shell) commands on save
+* [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
+* [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+* [argo-events](https://github.com/argoproj/argo-events) - Event-driven automation framework
+* [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+* [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+* [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+* [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne) - AudioKit Synth One: Open-Source iOS Synthesizer App
+* [modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
+* [butterflow](https://github.com/dthpham/butterflow) - Make motion interpolated and fluid slow motion videos from the command line.
+* [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+* [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
+* [kite](https://github.com/koding/kite) - Micro-service framework in Go
+* [gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit
+* [grpc-go-pool](https://github.com/processout/grpc-go-pool) - grpc connection pool
+* [void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
+* [tinykaboom](https://github.com/ssloy/tinykaboom) - A brief computer graphics / rendering course
+* [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
+* [grpc-haskell](https://github.com/grpc/grpc-haskell) - gRPC library binding for Haskell.
+* [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+* [Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
+* [nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
+* [async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
+* [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
+* [rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+* [flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
+* [bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
+* [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
+* [CTML](https://github.com/tinfoilboy/CTML) - A C++ HTML document constructor only depending on the standard library.
+* [poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+* [vuex-pathify](https://github.com/davestewart/vuex-pathify) - Vue / Vuex plugin providing a unified path syntax to Vuex stores
+* [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
+* [faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
+* [ish](https://github.com/ish-app/ish) - Linux shell for iOS
+* [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
+* [micro](https://github.com/micro/micro) - API first cloud platform
+* [consul-on-kubernetes](https://github.com/kelseyhightower/consul-on-kubernetes) - Running HashiCorp's Consul on Kubernetes
+* [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
+* [functional.pipe](https://github.com/andrewchaa/functional.pipe) - C# implementation of F# pipe
+* [go-outline](https://github.com/lukehoban/go-outline) - Utility to extract JSON representation of declarations from a Go source file
+* [toast](https://github.com/Fanatics/toast) - Plugin-driven CLI utility for code generation using Go source as IDL
+* [awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
+* [red-flag-of-fp](https://github.com/jarcane/red-flag-of-fp) - The Red Flag of Functional Programming
+* [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
+* [fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
+* [flow](https://github.com/dyrkin/flow) - Design a bot's conversation flow
+* [fsm](https://github.com/dyrkin/fsm) - Finite State Machine for Go inspired by Akka FSM
+* [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+* [typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
+* [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+* [gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
+* [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+* [graphbrainz](https://github.com/exogen/graphbrainz) - A fully-featured GraphQL interface for the MusicBrainz API.
+* [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
+* [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+* [kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
+* [sigourney](https://github.com/nf/sigourney) - A modular audio synthesizer
+* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+* [truss](https://github.com/metaverse/truss) - Truss helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.
+* [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
+* [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+* [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
+* [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
+* [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+* [auth0-golang-api-samples](https://github.com/auth0-samples/auth0-golang-api-samples) - Auth0 Integration Samples for Go REST API Services
+* [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 * [pipe](https://github.com/pipelined/pipe) - DSP pipeline
 * [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 * [photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -877,103 +977,3 @@
 * [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
-* [gontroller](https://github.com/spotahome/gontroller) - Go library to create resilient feedback loop/control controllers.
-* [vue-notification](https://github.com/euvl/vue-notification) - :icecream: Vue.js 2 library for showing notifications
-* [entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
-* [fabric](https://github.com/spy16/fabric) - Fabric is a simple triplestore written in Golang
-* [lossy](https://github.com/cevatbarisyilmaz/lossy) - Go package to simulate bandwidth, latency and packet loss for net.PacketConn and net.Conn interfaces
-* [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
-* [problem](https://github.com/mschneider82/problem) - A go library that implements application/problem+json and application/problem+xml
-* [modelo](https://github.com/ptrkrlsrd/modelo) - Boilerplate your projects from Github Templates and Gists
-* [go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
-* [go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-* [garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching. (We are hiring!)
-* [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-* [tyrannical](https://github.com/Elv13/tyrannical) - Dynamic tagging configuration system for awesomeWM
-* [lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go ⚡️
-* [Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
-* [polyglot](https://github.com/grpc-ecosystem/polyglot) - A universal grpc command line client
-* [go-proto-gql](https://github.com/danielvladco/go-proto-gql) - Protobuf plugins for generating graphql schema and golang to graphql bindings. Also supports a graphql gateway (Alpha)
-* [org-rs](https://github.com/org-rs/org-rs) - org-mode parser rewrite in Rust
-* [layer](https://github.com/cloudkj/layer) - Neural network inference the Unix way
-* [cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-* [signalr-no-jquery](https://github.com/DVLP/signalr-no-jquery) - 
-* [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
-* [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-* [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-* [KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
-* [digitalocean_exporter](https://github.com/metalmatze/digitalocean_exporter) - Prometheus exporter for DigitalOcean metrics, written in Go.
-* [gorgonia](https://github.com/gorgonia/gorgonia) - Gorgonia is a library that helps facilitate machine learning in Go.
-* [protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
-* [simple-streaming-datasource](https://github.com/seanlaff/simple-streaming-datasource) - End-to-end Grafana streaming datasource example
-* [lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) - This project is intended to protest against the police in Japan
-* [vue-typescript-inject](https://github.com/SpringNyan/vue-typescript-inject) - Angular-like injector for Vue
-* [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - A Go (golang) package that enhances the standard database/sql package by providing powerful data retrieval methods as well as DB-agnostic query building capabilities.
-* [firestarter](https://github.com/wasamasa/firestarter) - Execute (shell) commands on save
-* [1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
-* [nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-* [argo-events](https://github.com/argoproj/argo-events) - Event-driven automation framework
-* [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-* [xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
-* [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-* [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne) - AudioKit Synth One: Open-Source iOS Synthesizer App
-* [modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
-* [butterflow](https://github.com/dthpham/butterflow) - Make motion interpolated and fluid slow motion videos from the command line.
-* [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-* [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
-* [kite](https://github.com/koding/kite) - Micro-service framework in Go
-* [gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit
-* [grpc-go-pool](https://github.com/processout/grpc-go-pool) - grpc connection pool
-* [void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
-* [tinykaboom](https://github.com/ssloy/tinykaboom) - A brief computer graphics / rendering course
-* [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
-* [grpc-haskell](https://github.com/grpc/grpc-haskell) - gRPC library binding for Haskell.
-* [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-* [Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
-* [nixos-org-configurations](https://github.com/NixOS/nixos-org-configurations) - NixOS configurations for nixos.org and its servers
-* [async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
-* [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
-* [rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
-* [flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
-* [bake](https://github.com/SanderMertens/bake) - A build system that lets you clone, build and run C/C++ projects with a single command
-* [goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
-* [CTML](https://github.com/tinfoilboy/CTML) - A C++ HTML document constructor only depending on the standard library.
-* [poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-* [vuex-pathify](https://github.com/davestewart/vuex-pathify) - Vue / Vuex plugin providing a unified path syntax to Vuex stores
-* [rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
-* [faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
-* [ish](https://github.com/ish-app/ish) - Linux shell for iOS
-* [dotfiles](https://github.com/kaihendry/dotfiles) - Home directory with an absurd amount of tweaks
-* [micro](https://github.com/micro/micro) - API first cloud platform
-* [consul-on-kubernetes](https://github.com/kelseyhightower/consul-on-kubernetes) - Running HashiCorp's Consul on Kubernetes
-* [gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
-* [functional.pipe](https://github.com/andrewchaa/functional.pipe) - C# implementation of F# pipe
-* [go-outline](https://github.com/lukehoban/go-outline) - Utility to extract JSON representation of declarations from a Go source file
-* [toast](https://github.com/Fanatics/toast) - Plugin-driven CLI utility for code generation using Go source as IDL
-* [awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
-* [red-flag-of-fp](https://github.com/jarcane/red-flag-of-fp) - The Red Flag of Functional Programming
-* [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
-* [fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead
-* [flow](https://github.com/dyrkin/flow) - Design a bot's conversation flow
-* [fsm](https://github.com/dyrkin/fsm) - Finite State Machine for Go inspired by Akka FSM
-* [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-* [typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
-* [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-* [gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
-* [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
-* [graphbrainz](https://github.com/exogen/graphbrainz) - A fully-featured GraphQL interface for the MusicBrainz API.
-* [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
-* [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-* [kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
-* [sigourney](https://github.com/nf/sigourney) - A modular audio synthesizer
-* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-* [truss](https://github.com/metaverse/truss) - Truss helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.
-* [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
-* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
-* [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-* [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
-* [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-* [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-* [auth0-golang-api-samples](https://github.com/auth0-samples/auth0-golang-api-samples) - Auth0 Integration Samples for Go REST API Services
-* [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
