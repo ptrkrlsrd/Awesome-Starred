@@ -1,5 +1,7 @@
 # Awesome automated list of my starred repositories
 
+* [nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
+* [neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 * [yaml-schema-validator-github-action](https://github.com/nrkno/yaml-schema-validator-github-action) - A GitHub action that uses Yamale for YAML schema validation
 * [nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than a dozen new text objects for Neovim.
 * [system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
@@ -98,8 +100,8 @@
 * [atlas](https://github.com/GreenOpsInc/atlas) - Atlas enables you to easily create and manage flexible, cloud-native deployment pipelines for Kubernetes-based applications. It is an open-source tool that allows complete configurability and modifiability (in the form of tasks/tests and pipeline structure) with very little overhead. Atlas is built on top of Argo.
 * [gostl](https://github.com/liyue201/gostl) - Data structure and algorithm library for go, designed to provide functions similar to C++ STL
 * [nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
-* [litee.nvim](https://github.com/ldelossa/litee.nvim) - A framework for building Neovim plugins
-* [topfew](https://github.com/timbray/topfew) - Finds the fields (or combinations of fields) which appear most often in a stream of records.
+* [OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
+* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 * [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 * [grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 * [git-plan](https://github.com/synek/git-plan) - Git Plan - a better workflow for git
@@ -884,6 +886,8 @@
 * [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
+* [litee.nvim](https://github.com/ldelossa/litee.nvim) - A framework for building Neovim plugins
+* [topfew](https://github.com/timbray/topfew) - Finds the fields (or combinations of fields) which appear most often in a stream of records.
 * [autoportforward](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker, podman and kubernetes
 * [thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 * [virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - Neovim plugin that shows type annotations as virtual text
@@ -982,5 +986,3 @@
 * [looper-max](https://github.com/loopier/looper-max) - A tapedelay-like looper built in Max/MSP
 * [synthdefs](https://github.com/loopier/synthdefs) - A collections of Supercollider synths
 * [craftsman](https://github.com/pdevito3/craftsman) - A .NET 7 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
-* [OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
-* [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
