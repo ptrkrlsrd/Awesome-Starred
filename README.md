@@ -10,8 +10,8 @@
 * [ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang with Zero dependencies
 * [key-menu.nvim](https://github.com/linty-org/key-menu.nvim) - Key mapping hints in a floating window
 * [swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visualizations or simulations.
-* [norns](https://github.com/monome/norns) - norns is many sound instruments.
 * [tapedeck](https://github.com/schollz/tapedeck) - norns tape deck emulator.
+* [norns](https://github.com/monome/norns) - norns is many sound instruments.
 * [WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API for OpenAI Whisper)
 * [vfiler.vim](https://github.com/obaland/vfiler.vim) - :file_folder: File explorer plugin for Vim/Neovim
 * [JSONlib](https://github.com/musikinformatik/JSONlib) - A JSON de- and encoder for SuperCollider
@@ -500,106 +500,6 @@
 * [sigourney](https://github.com/nf/sigourney) - A modular audio synthesizer
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 * [truss](https://github.com/metaverse/truss) - Truss helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.
-* [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
-* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
-* [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-* [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
-* [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-* [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-* [auth0-golang-api-samples](https://github.com/auth0-samples/auth0-golang-api-samples) - Auth0 Integration Samples for Go REST API Services
-* [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
-* [pipe](https://github.com/pipelined/pipe) - DSP pipeline
-* [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
-* [photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-* [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow 
-* [http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-* [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
-* [thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
-* [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-* [go-chassis](https://github.com/go-chassis/go-chassis) - a cloud native application framework for Go with rich eco-system
-* [ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
-* [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
-* [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
-* [k8s-ingress-setup](https://github.com/gokulchandra/k8s-ingress-setup) - 
-* [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   >>>
-* [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
-* [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
-* [gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
-* [fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
-* [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
-* [bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
-* [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-* [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
-* [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-* [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-* [pprof](https://github.com/gin-contrib/pprof) - gin pprof middleware
-* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-* [gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
-* [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - :open_file_folder: generic protocol generator based on golang's text/template (grpc/protobuf)
-* [certificate-expiry-monitor-controller](https://github.com/mercari/certificate-expiry-monitor-controller) - Certificate Expiry Monitor Controller monitors the expiration of TLS certificates used in Ingress.
-* [blimp](https://github.com/walseb/blimp) - A complete wrapper around all imagemagick commands with autocompletion, descriptions and hints displayed in prompt
-* [kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
-* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-* [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-* [go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
-* [vim-coiled-snake](https://github.com/kalekundert/vim-coiled-snake) - Compact, but ready to strike. 🐍
-* [percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
-* [gotests-vim](https://github.com/buoto/gotests-vim) - Vim plugin for https://github.com/cweill/gotests
-* [gounit](https://github.com/hexdigest/gounit) - Unit tests generator for Go programming language
-* [gounit-vim](https://github.com/hexdigest/gounit-vim) - Vim plugin for https://github.com/hexdigest/gounit
-* [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
-* [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-* [ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
-* [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
-* [alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
-* [RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
-* [go-linq](https://github.com/ahmetb/go-linq) - .NET LINQ capabilities in Go
-* [go-langserver](https://github.com/sourcegraph/go-langserver) - Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
-* [ferret](https://github.com/nakkaya/ferret) - Ferret is a free software lisp implementation for real time embedded control systems.
-* [lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
-* [kit](https://github.com/kujtimiihoxha/kit) - GoKit CLI 
-* [containerum](https://github.com/containerum/containerum) - Web UI for Kubernetes with teamwork and CI/CD support
-* [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-* [hookah](https://github.com/wybiral/hookah) - A cross-platform tool for data pipelines.
-* [testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
-* [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-* [ff](https://github.com/ff-notes/ff) - A distributed note taker and task manager.
-* [captain](https://github.com/jenssegers/captain) - ⚓️ Easily start and stop docker compose projects
-* [ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
-* [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
-* [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
-* [router7](https://github.com/rtr7/router7) - router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.
-* [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-* [go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
-* [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
-* [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
-* [mem](https://github.com/gokv/mem) - gokv/store compliant in-memory key value store
-* [store](https://github.com/gokv/store) - The Store interface
-* [postgres](https://github.com/gokv/postgres) - 
-* [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
-* [remoto](https://github.com/machinebox/remoto) - Ultra-simple RPC ecosystem designed for right now.
-* [lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
-* [remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
-* [go-jsonnet](https://github.com/google/go-jsonnet) - 
-* [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
-* [microsoft-drop-ice](https://github.com/selfagency/microsoft-drop-ice) - Tell Microsoft to drop ICE as a client or lose us as GitHub users
-* [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-* [elisp-bug-hunter](https://github.com/Malabarba/elisp-bug-hunter) - Hunt down errors in elisp files.
-* [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using Graphviz
-* [go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
-* [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
-* [corgi](https://github.com/junyu-w/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
-* [kit](https://github.com/go-kit/kit) - A standard library for microservices.
-* [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
-* [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
-* [jargon](https://github.com/clipperhouse/jargon) - Tokenizers and lemmatizers for Go
-* [p-tap](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
-* [captainhook](https://github.com/bketelsen/captainhook) - A generic webhook endpoint that runs scripts based on the URL called
-* [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
-* [kube-theme](https://github.com/BeameryHQ/kube-theme) - Making managing kubernetes cluster easier
-* [clay](https://github.com/utrack/clay) - Proto-first minimal server platform for gRPС+REST+Swagger APIs
-* [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 * [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 * [sbr-go](https://github.com/maciejkula/sbr-go) - Recommender systems for Go
 * [revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
@@ -700,6 +600,106 @@
 * [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 * [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 * [fantasyland-redux](https://github.com/philipnilsson/fantasyland-redux) - Fantasyland-compliant version of Redux
+* [gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
+* [react-tagsinput](https://github.com/olahol/react-tagsinput) - Highly customizable React component for inputing tags.
+* [lightcrawler](https://github.com/github/lightcrawler) - Crawl a website and run it through Google lighthouse
+* [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+* [crown](https://github.com/crownengine/crown) - The flexible game engine.
+* [hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+* [golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
+* [airbnb-data-collection](https://github.com/tomslee/airbnb-data-collection) - Data collection for Airbnb listings.
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+* [gonvim](https://github.com/dzhou121/gonvim) - 
+* [griddd](https://github.com/shankara-subramani/griddd) - A dead simple, customisable, flexbox-based griddd
+* [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+* [preact-cli](https://github.com/preactjs/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.
+* [plate](https://github.com/seagreen/plate) - Principled schema system for JSON. Work in progress.
+* [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+* [react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
+* [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
+* [AppIcon](https://github.com/Nonchalant/AppIcon) - AppIcon generates *.appiconset contains each resolution image for iOS
+* [snake](https://github.com/amoffat/snake) - Full Python Scripting in Vim
+* [mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
+* [indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
+* [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+* [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
+* [react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
+* [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+* [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. 
+* [zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
+* [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
+* [journey](https://github.com/kabukky/journey) - A blog engine written in Go, compatible with Ghost themes.
+* [SwiftyImage](https://github.com/devxoul/SwiftyImage) - 🎨 Generate image resources in Swift
+* [react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
+* [react-blur-image-loader](https://github.com/MarkoCen/react-blur-image-loader) - Blurred progressive image loader for React
+* [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+* [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
+* [awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
+* [Brutalist-Framework](https://github.com/pinecreativelabs/Brutalist-Framework) - A framework for the brutalist web design trend.
+* [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+* [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+* [cpython](https://github.com/python/cpython) - The Python programming language
+* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+* [Flask-AppBuilder](https://github.com/airbnb/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
+* [proselint](https://github.com/amperser/proselint) - A linter for prose.
+* [micro-starter](https://github.com/samtgarson/micro-starter) - [Deprecated] 🔷 Basic (opinionated) starter kit for a micro app with webpack build
+* [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+* [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-Pythonic syntatic sugar to Python
+* [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
+* [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+* [zoom.js](https://github.com/nishanths/zoom.js) - Dependency-free implementation of zoom.js (no jQuery or Bootstrap) 
+* [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
+* [react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
+* [single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
+* [stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+* [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
+* [Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux. 
+* [arc-black-ubuntu](https://github.com/vooze/arc-black-ubuntu) - I don't maintain this anymore, since I don't use Linux on the desktop anymore.
+* [cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client
+* [rebridge](https://github.com/CapacitorSet/rebridge) - A transparent Javascript interface to Redis.
+* [mux](https://github.com/donutloop/mux) - mux is a lightweight HTTP request router
+* [conversational-form](https://github.com/space10-community/conversational-form) - Turning web forms into conversations
+* [sc-virtual-choir](https://github.com/shimpe/sc-virtual-choir) - supercollider based virtual choir (harmonizer)
+* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
+* [Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
+* [auto-image-renamer](https://github.com/sanjujosh/auto-image-renamer) - Rename images using deep learning
+* [pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
+* [sqawk](https://github.com/dbohdan/sqawk) - Like awk but with SQL and table joins
+* [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack
+* [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+* [sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
+* [bar](https://github.com/krypt-n/bar) - Fork of bar ain't recursive - A lightweight xcb based bar. This is a hot mess, do not use
+* [fusuma](https://github.com/iberianpig/fusuma) - Multitouch gestures with libinput driver on Linux
+* [Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
+* [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
+* [sanic](https://github.com/sanic-org/sanic) -  Accelerate your web app development  | Build fast. Run fast.
+* [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+* [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+* [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
+* [vibrant.js](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
+* [whatsbook](https://github.com/pbeck/whatsbook) - Create books from WhatsApp group chats with Python and LaTeX
+* [honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for Oh My ZSH and iTerm
+* [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code.
+* [Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
+* [neo](https://github.com/mozilla/neo) - INACTIVE - http://mzl.la/ghe-archive - DEPRECATED: See https://neutrino.js.org for alternative
+* [kyt](https://github.com/nytimes/kyt) - Starting a new JS app? Build, test and run advanced apps with kyt 🔥
+* [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+* [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
+* [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
+* [dotfiles](https://github.com/dhensen/dotfiles) - just my dotfiles
+* [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
+* [granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
+* [USD](https://github.com/PixarAnimationStudios/USD) - Universal Scene Description
+* [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+* [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
+* [positron-bar](https://github.com/ajrouvoet/positron-bar) - Electron bar for your linux desktop!
+* [dotfiles](https://github.com/juhohei/dotfiles) - Arch Linux configs
+* [ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
+* [AwaitKit](https://github.com/yannickl/AwaitKit) - The ES8 Async/Await control flow for Swift
+* [bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)
+* [reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
+* [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
+* [Awkward](https://github.com/iostreamer-X/Awkward) - A NodeJS based shell. Everything is an Object!
 * [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 * [material-kit](https://github.com/creativetimofficial/material-kit) -  Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
 * [invoice-boilerplate](https://github.com/mrzool/invoice-boilerplate) - Simple automated LaTeX invoicing system
@@ -886,103 +886,103 @@
 * [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
-* [gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
-* [react-tagsinput](https://github.com/olahol/react-tagsinput) - Highly customizable React component for inputing tags.
-* [lightcrawler](https://github.com/github/lightcrawler) - Crawl a website and run it through Google lighthouse
-* [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-* [crown](https://github.com/crownengine/crown) - The flexible game engine.
-* [hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-* [golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
-* [airbnb-data-collection](https://github.com/tomslee/airbnb-data-collection) - Data collection for Airbnb listings.
-* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-* [gonvim](https://github.com/dzhou121/gonvim) - 
-* [griddd](https://github.com/shankara-subramani/griddd) - A dead simple, customisable, flexbox-based griddd
-* [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-* [preact-cli](https://github.com/preactjs/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.
-* [plate](https://github.com/seagreen/plate) - Principled schema system for JSON. Work in progress.
-* [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-* [react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
-* [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
-* [AppIcon](https://github.com/Nonchalant/AppIcon) - AppIcon generates *.appiconset contains each resolution image for iOS
-* [snake](https://github.com/amoffat/snake) - Full Python Scripting in Vim
-* [mongorito](https://github.com/vadimdemedes/mongorito) - 🍹 MongoDB ODM for Node.js apps based on Redux
-* [indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
-* [fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-* [react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
-* [react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
-* [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-* [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. 
-* [zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
-* [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
-* [journey](https://github.com/kabukky/journey) - A blog engine written in Go, compatible with Ghost themes.
-* [SwiftyImage](https://github.com/devxoul/SwiftyImage) - 🎨 Generate image resources in Swift
-* [react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
-* [react-blur-image-loader](https://github.com/MarkoCen/react-blur-image-loader) - Blurred progressive image loader for React
-* [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-* [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
-* [awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
-* [Brutalist-Framework](https://github.com/pinecreativelabs/Brutalist-Framework) - A framework for the brutalist web design trend.
-* [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
-* [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-* [cpython](https://github.com/python/cpython) - The Python programming language
-* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-* [Flask-AppBuilder](https://github.com/airbnb/Flask-AppBuilder) - Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
-* [proselint](https://github.com/amperser/proselint) - A linter for prose.
-* [micro-starter](https://github.com/samtgarson/micro-starter) - [Deprecated] 🔷 Basic (opinionated) starter kit for a micro app with webpack build
-* [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
-* [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-Pythonic syntatic sugar to Python
-* [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
-* [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-* [zoom.js](https://github.com/nishanths/zoom.js) - Dependency-free implementation of zoom.js (no jQuery or Bootstrap) 
-* [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
-* [react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
-* [single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
-* [stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
-* [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-* [Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux. 
-* [arc-black-ubuntu](https://github.com/vooze/arc-black-ubuntu) - I don't maintain this anymore, since I don't use Linux on the desktop anymore.
-* [cantata](https://github.com/CDrummond/cantata) - Qt5 Graphical MPD Client
-* [rebridge](https://github.com/CapacitorSet/rebridge) - A transparent Javascript interface to Redis.
-* [mux](https://github.com/donutloop/mux) - mux is a lightweight HTTP request router
-* [conversational-form](https://github.com/space10-community/conversational-form) - Turning web forms into conversations
-* [sc-virtual-choir](https://github.com/shimpe/sc-virtual-choir) - supercollider based virtual choir (harmonizer)
-* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
-* [Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
-* [auto-image-renamer](https://github.com/sanjujosh/auto-image-renamer) - Rename images using deep learning
-* [pix2pix](https://github.com/phillipi/pix2pix) - Image-to-image translation with conditional adversarial nets
-* [sqawk](https://github.com/dbohdan/sqawk) - Like awk but with SQL and table joins
-* [generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack
-* [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-* [sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity
-* [bar](https://github.com/krypt-n/bar) - Fork of bar ain't recursive - A lightweight xcb based bar. This is a hot mess, do not use
-* [fusuma](https://github.com/iberianpig/fusuma) - Multitouch gestures with libinput driver on Linux
-* [Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
-* [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
-* [sanic](https://github.com/sanic-org/sanic) -  Accelerate your web app development  | Build fast. Run fast.
-* [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-* [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-* [cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
-* [vibrant.js](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image. JS port of Android's Palette.
-* [whatsbook](https://github.com/pbeck/whatsbook) - Create books from WhatsApp group chats with Python and LaTeX
-* [honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for Oh My ZSH and iTerm
-* [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code.
-* [Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
-* [neo](https://github.com/mozilla/neo) - INACTIVE - http://mzl.la/ghe-archive - DEPRECATED: See https://neutrino.js.org for alternative
-* [kyt](https://github.com/nytimes/kyt) - Starting a new JS app? Build, test and run advanced apps with kyt 🔥
-* [OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
-* [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
-* [vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-* [dotfiles](https://github.com/dhensen/dotfiles) - just my dotfiles
-* [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
-* [granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
-* [USD](https://github.com/PixarAnimationStudios/USD) - Universal Scene Description
-* [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-* [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
-* [positron-bar](https://github.com/ajrouvoet/positron-bar) - Electron bar for your linux desktop!
-* [dotfiles](https://github.com/juhohei/dotfiles) - Arch Linux configs
-* [ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
-* [AwaitKit](https://github.com/yannickl/AwaitKit) - The ES8 Async/Await control flow for Swift
-* [bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)
-* [reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
-* [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
-* [Awkward](https://github.com/iostreamer-X/Awkward) - A NodeJS based shell. Everything is an Object!
+* [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
+* [skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+* [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
+* [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
+* [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+* [auth0-golang-api-samples](https://github.com/auth0-samples/auth0-golang-api-samples) - Auth0 Integration Samples for Go REST API Services
+* [Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
+* [pipe](https://github.com/pipelined/pipe) - DSP pipeline
+* [gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
+* [photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+* [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow 
+* [http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
+* [serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
+* [thunder](https://github.com/samsarahq/thunder) - ⚡️ A Go framework for rapidly building powerful graphql services
+* [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+* [go-chassis](https://github.com/go-chassis/go-chassis) - a cloud native application framework for Go with rich eco-system
+* [ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
+* [machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
+* [kubespy](https://github.com/pulumi/kubespy) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
+* [k8s-ingress-setup](https://github.com/gokulchandra/k8s-ingress-setup) - 
+* [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   >>>
+* [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+* [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
+* [gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
+* [fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
+* [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language
+* [bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
+* [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+* [snek](https://github.com/inconvergent/snek) - See https://github.com/inconvergent/weir instead
+* [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+* [https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+* [pprof](https://github.com/gin-contrib/pprof) - gin pprof middleware
+* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+* [gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
+* [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - :open_file_folder: generic protocol generator based on golang's text/template (grpc/protobuf)
+* [certificate-expiry-monitor-controller](https://github.com/mercari/certificate-expiry-monitor-controller) - Certificate Expiry Monitor Controller monitors the expiration of TLS certificates used in Ingress.
+* [blimp](https://github.com/walseb/blimp) - A complete wrapper around all imagemagick commands with autocompletion, descriptions and hints displayed in prompt
+* [kubernetes-el](https://github.com/kubernetes-el/kubernetes-el) - Manage Kubernetes clusters with Emacs.
+* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+* [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+* [go-dockerclient](https://github.com/fsouza/go-dockerclient) - Go client for the Docker Engine API.
+* [vim-coiled-snake](https://github.com/kalekundert/vim-coiled-snake) - Compact, but ready to strike. 🐍
+* [percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
+* [gotests-vim](https://github.com/buoto/gotests-vim) - Vim plugin for https://github.com/cweill/gotests
+* [gounit](https://github.com/hexdigest/gounit) - Unit tests generator for Go programming language
+* [gounit-vim](https://github.com/hexdigest/gounit-vim) - Vim plugin for https://github.com/hexdigest/gounit
+* [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
+* [migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
+* [ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
+* [autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
+* [alt](https://github.com/dotboris/alt) - A simple version manager tool for switching between different versions of commands
+* [RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language.
+* [go-linq](https://github.com/ahmetb/go-linq) - .NET LINQ capabilities in Go
+* [go-langserver](https://github.com/sourcegraph/go-langserver) - Go language server to add Go support to editors and other tools that use the Language Server Protocol (LSP)
+* [ferret](https://github.com/nakkaya/ferret) - Ferret is a free software lisp implementation for real time embedded control systems.
+* [lsp-ui](https://github.com/emacs-lsp/lsp-ui) - UI integrations for lsp-mode
+* [kit](https://github.com/kujtimiihoxha/kit) - GoKit CLI 
+* [containerum](https://github.com/containerum/containerum) - Web UI for Kubernetes with teamwork and CI/CD support
+* [go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+* [hookah](https://github.com/wybiral/hookah) - A cross-platform tool for data pipelines.
+* [testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+* [graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+* [ff](https://github.com/ff-notes/ff) - A distributed note taker and task manager.
+* [captain](https://github.com/jenssegers/captain) - ⚓️ Easily start and stop docker compose projects
+* [ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
+* [go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
+* [prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+* [router7](https://github.com/rtr7/router7) - router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance.
+* [pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+* [go-critic](https://github.com/go-critic/go-critic) - The most opinionated Go source code linter for code audit.
+* [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
+* [oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go.
+* [mem](https://github.com/gokv/mem) - gokv/store compliant in-memory key value store
+* [store](https://github.com/gokv/store) - The Store interface
+* [postgres](https://github.com/gokv/postgres) - 
+* [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
+* [remoto](https://github.com/machinebox/remoto) - Ultra-simple RPC ecosystem designed for right now.
+* [lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
+* [remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
+* [go-jsonnet](https://github.com/google/go-jsonnet) - 
+* [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
+* [microsoft-drop-ice](https://github.com/selfagency/microsoft-drop-ice) - Tell Microsoft to drop ICE as a client or lose us as GitHub users
+* [grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
+* [elisp-bug-hunter](https://github.com/Malabarba/elisp-bug-hunter) - Hunt down errors in elisp files.
+* [go-callvis](https://github.com/ofabry/go-callvis) - Visualize call graph of a Go program using Graphviz
+* [go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+* [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
+* [corgi](https://github.com/junyu-w/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
+* [kit](https://github.com/go-kit/kit) - A standard library for microservices.
+* [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
+* [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
+* [jargon](https://github.com/clipperhouse/jargon) - Tokenizers and lemmatizers for Go
+* [p-tap](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
+* [captainhook](https://github.com/bketelsen/captainhook) - A generic webhook endpoint that runs scripts based on the URL called
+* [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+* [kube-theme](https://github.com/BeameryHQ/kube-theme) - Making managing kubernetes cluster easier
+* [clay](https://github.com/utrack/clay) - Proto-first minimal server platform for gRPС+REST+Swagger APIs
+* [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
