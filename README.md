@@ -140,7 +140,7 @@
 * [wacom-settings](https://github.com/avargas05/wacom-settings) - GUI for calibrating the wacom tablet to a screen or window
 * [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 * [impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
-* [pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
+* [pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 * [miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 * [sniprun](https://github.com/michaelb/sniprun) - A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages
 * [symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
