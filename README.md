@@ -1,5 +1,8 @@
 # Awesome automated list of my starred repositories
 
+* [uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
+* [warrant](https://github.com/warrant-dev/warrant) - An open source application authorization and access control service built for developers and product teams.
+* [heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
 * [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 * [nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 * [nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
@@ -12,8 +15,8 @@
 * [ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang with Zero dependencies
 * [key-menu.nvim](https://github.com/linty-org/key-menu.nvim) - Key mapping hints in a floating window
 * [swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visualizations or simulations.
-* [norns](https://github.com/monome/norns) - norns is many sound instruments.
 * [tapedeck](https://github.com/schollz/tapedeck) - norns tape deck emulator.
+* [norns](https://github.com/monome/norns) - norns is many sound instruments.
 * [WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API for OpenAI Whisper)
 * [vfiler.vim](https://github.com/obaland/vfiler.vim) - :file_folder: File explorer plugin for Vim/Neovim
 * [JSONlib](https://github.com/musikinformatik/JSONlib) - A JSON de- and encoder for SuperCollider
@@ -113,7 +116,7 @@
 * [pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 * [ihp](https://github.com/digitallyinduced/ihp) - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 * [okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
-* [zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+* [zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 * [Navigator.nvim](https://github.com/numToStr/Navigator.nvim) - :sparkles: Smoothly navigate between neovim and terminal multiplexer(s) :sparkles:
 * [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 * [history-navigation-vue](https://github.com/hezedu/history-navigation-vue) - Native-like navigation for web apps.
@@ -497,9 +500,9 @@
 * [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 * [graphbrainz](https://github.com/exogen/graphbrainz) - A fully-featured GraphQL interface for the MusicBrainz API.
 * [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
-* [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-* [kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
-* [sigourney](https://github.com/nf/sigourney) - A modular audio synthesizer
+* [captainhook](https://github.com/bketelsen/captainhook) - A generic webhook endpoint that runs scripts based on the URL called
+* [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+* [kube-theme](https://github.com/BeameryHQ/kube-theme) - Making managing kubernetes cluster easier
 * [clay](https://github.com/utrack/clay) - Proto-first minimal server platform for gRPС+REST+Swagger APIs
 * [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 * [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
@@ -649,7 +652,7 @@
 * [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-Pythonic syntatic sugar to Python
 * [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 * [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-* [zoom.js](https://github.com/nishanths/zoom.js) - Dependency-free implementation of zoom.js (no jQuery or Bootstrap) 
+* [zoom.js](https://github.com/nishanths/zoom.js) - Dependency-free fork of fat/zoom.js (no jQuery or Bootstrap) 
 * [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 * [react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
 * [single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
@@ -888,6 +891,9 @@
 * [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
+* [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+* [kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
+* [sigourney](https://github.com/nf/sigourney) - A modular audio synthesizer
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 * [truss](https://github.com/metaverse/truss) - Truss helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.
 * [google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
@@ -985,6 +991,3 @@
 * [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 * [jargon](https://github.com/clipperhouse/jargon) - Tokenizers and lemmatizers for Go
 * [p-tap](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
-* [captainhook](https://github.com/bketelsen/captainhook) - A generic webhook endpoint that runs scripts based on the URL called
-* [drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
-* [kube-theme](https://github.com/BeameryHQ/kube-theme) - Making managing kubernetes cluster easier
