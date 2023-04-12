@@ -1,5 +1,7 @@
 # Awesome automated list of my starred repositories
 
+* [dozer](https://github.com/getdozer/dozer) - Connect any data source, combine them in real-time and instantly get low-latency Data APIs. All with just a simple configuration!
+* [rrust.nvim](https://github.com/vlopes11/rrust.nvim) - 
 * [openai-go](https://github.com/rakyll/openai-go) - Go client libraries for OpenAI
 * [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 * [uniffi-rs](https://github.com/mozilla/uniffi-rs) - a multi-language bindings generator for rust
@@ -10,7 +12,7 @@
 * [nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) - Region selection with hints on the AST nodes of a document powered by treesitter
 * [neomux](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
 * [yaml-schema-validator-github-action](https://github.com/nrkno/yaml-schema-validator-github-action) - A GitHub action that uses Yamale for YAML schema validation
-* [nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than a dozen new text objects for Neovim.
+* [nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of two dozen new text objects for Neovim.
 * [system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 * [nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode for Neovim which leverages conceal and highlights your buffer with the correct color codes.
 * [frostdb](https://github.com/polarsignals/frostdb) - ❄️ Coolest database around 🧊 Embeddable column database written in Go.
@@ -40,7 +42,7 @@
 * [tree-climber.nvim](https://github.com/drybalka/tree-climber.nvim) - 
 * [nvim-headband](https://github.com/B4mbus/nvim-headband) - 🐱‍👤 A simple and opinionated winbar
 * [signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
-* [dagu](https://github.com/yohamta/dagu) - Powerful Cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+* [dagu](https://github.com/yohamta/dagu) - Powerful Cron Alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 * [peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time
 * [vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
 * [fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
@@ -57,7 +59,7 @@
 * [mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 * [lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 * [piano-trainer](https://github.com/ZaneH/piano-trainer) - Memorize piano scales with ease! A music practice program w/ MIDI support. Consider it an interactive reference manual 🎹
-* [template.nvim](https://github.com/glepnir/template.nvim) - Quickly insert templates into file
+* [template.nvim](https://github.com/nvimdev/template.nvim) - Quickly insert templates into file
 * [terraform-provider-argocd](https://github.com/oboukili/terraform-provider-argocd) - Terraform provider for ArgoCD 
 * [Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 * [strum](https://github.com/Peternator7/strum) - A small rust library for adding custom derives to enums
@@ -498,8 +500,8 @@
 * [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 * [typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust
 * [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-* [gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
-* [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+* [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
+* [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 * [jargon](https://github.com/clipperhouse/jargon) - Tokenizers and lemmatizers for Go
 * [p-tap](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
 * [captainhook](https://github.com/bketelsen/captainhook) - A generic webhook endpoint that runs scripts based on the URL called
@@ -654,7 +656,7 @@
 * [syntax_sugar_python](https://github.com/czheo/syntax_sugar_python) - A library adding some anti-Pythonic syntatic sugar to Python
 * [jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 * [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-* [zoom.js](https://github.com/nishanths/zoom.js) - Dependency-free fork of fat/zoom.js (no jQuery or Bootstrap) 
+* [zoom.js](https://github.com/nishanths/zoom.js) - Port of "fat/zoom.js" with improvements and no dependencies.
 * [bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
 * [react-lazyload](https://github.com/twobin/react-lazyload) - Lazy load your component, image or anything matters the performance.
 * [single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C++ libraries.
@@ -893,6 +895,8 @@
 * [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 * [Surfboard](https://github.com/MosheBerman/Surfboard) - Surfboard is a delightful onboarding framework for iOS.
 * [Onboard](https://github.com/mamaral/Onboard) - An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
+* [gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
+* [netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 * [graphbrainz](https://github.com/exogen/graphbrainz) - A fully-featured GraphQL interface for the MusicBrainz API.
 * [nextspace](https://github.com/trunkmaster/nextspace) - NeXTSTEP-like desktop environment for Linux
 * [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -991,5 +995,3 @@
 * [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 * [corgi](https://github.com/junyu-w/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
 * [kit](https://github.com/go-kit/kit) - A standard library for microservices.
-* [revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
-* [paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
